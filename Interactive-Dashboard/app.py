@@ -10,8 +10,15 @@ import io
 # ---------------------
 # Data loading
 # ---------------------
-@st.cache_data
-def load_data(path: str = "/home/tajak/Benchmarking-Text-Classification-on-South-Slavic/Interactive-Dashboard/results.csv") -> pd.DataFrame:
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_RESULTS_CSV = os.path.join(BASE_DIR, "results.csv")
+
+def load_data(path: str = DEFAULT_RESULTS_CSV) -> pd.DataFrame:
+    if not os.path.exists(path):
+        fallback = os.path.join(BASE_DIR, "results.csv")
+        if os.path.exists(fallback):
+            path = fallback
     df = pd.read_csv(path)
     df.columns = [c.strip().lower() for c in df.columns]
 
@@ -469,8 +476,8 @@ def main():
         )
 
     with col_logos:
-        st.image("/home/tajak/Benchmarking-Text-Classification-on-South-Slavic/Interactive-Dashboard/CLASSLA-k-centre-transparent-background.png", width='stretch')
-        st.image("/home/tajak/Benchmarking-Text-Classification-on-South-Slavic/Interactive-Dashboard/logo-clarin.si-en.png", width='stretch')
+        st.image(os.path.join(BASE_DIR, "CLASSLA-k-centre-transparent-background.png"), width='stretch')
+        st.image(os.path.join(BASE_DIR, "logo-clarin.si-en.png"), width='stretch')
 
     st.markdown(
         """
@@ -507,7 +514,7 @@ def main():
 
     model_summary_lines = [
         'Claude Haiku 4.5 - [`anthropic/claude-haiku-4.5`](https://openrouter.ai/anthropic/claude-haiku-4.5) ([Anthropic, 2025](https://www-cdn.anthropic.com/7aad69bf12627d42234e01ee7c36305dc2f6a970.pdf)): a closed-source hybrid reasoning large language model from Anthropic. Available details on the model architecture and language coverage are limited.',
-        'DeepSeek-R1-Distill - [`DeepSeek-R1-Distill-Qwen-14B`](https://ollama.com/library/deepseek-r1:14b) ([Guo et al., 2025](https://arxiv.org/pdf/2501.12948?)): an open-weight reasoning LLM, developed by DeepSeek AI. We use the distilled model in 14 billion parameter size. The model is based on the Qwen 2.5 model that was fine-tuned using a dataset curated with the DeepSeek-R1 reasoning model. The Qwen 2.5 model provides multilingual support for over 29 languages, including Chinese, English, French, Spanish, Portuguese, German, Italian, Russian, Japanese, Korean, Vietnamese, Thai, and Arabic.',
+        'DeepSeek-R1-Distill-Qwen-14B (`deepseek-r1:14b`) and DeepSeek-R1-0528 (`deepseek/deepseek-r1-0528`) are displayed separately. Each score retains its original model identifier in the results CSV.',
         '[GaMS-27B-Instruct](https://huggingface.co/cjvt/GaMS-27B-Instruct) - [`GaMS-27B-Instruct-i1-GGUF:latest`](https://huggingface.co/mradermacher/GaMS-27B-Instruct-i1-GGUF): an open-source 27B parameter model from the GaMS (Generative Model for Slovene) family ([Vreš et al., 2024](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=164282)). The model is based on the Gemma 2 model and continually pretrained on Slovenian, English and some portion of Croatian, Serbian and Bosnian corpora.',
         'Gemini 2.5 Flash - [`google/gemini-2.5-flash`](https://openrouter.ai/google/gemini-2.5-flash), Gemini 2.5 Pro - [`google/gemini-2.5-pro`](https://openrouter.ai/google/gemini-2.5-pro) ([Comanici et al., 2025](https://arxiv.org/abs/2507.06261)) and Gemini 3 Flash Preview - [`google/gemini-3-flash-preview`](https://openrouter.ai/google/gemini-3-flash-preview) ([Google DeepMind, 2025](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Flash-Model-Card.pdf)): closed-source multilingual and multimodal instruction-tuned LLMs by Google DeepMind. The models are reported to be pretrained on over 400 languages, however, details on the language coverage are not available.',
         '[Gemma 3](https://ollama.com/library/gemma3) ([Gemma Team et al., 2025](https://arxiv.org/pdf/2503.19786)): an open-weight multilingual instruction-tuned LLM, developed by Google DeepMind. The model was pretrained on multimodal data with large quantities of multilingual texts and is reported to support over 140 languages. We use the model in 27 billion parameter size.',
@@ -594,6 +601,11 @@ def main():
 
     st.subheader("Task-level view")
     st.markdown("Use the filters below to inspect detailed per-task, per-language, per-model results.")
+    st.caption(
+        "PIQA and COPA show all models and scripts from the current result files. "
+        "Serbian, Torlak, and Šatrovački labels without a script suffix denote Latin; "
+        "Cyrillic results are shown separately."
+    )
 
     tasks = sorted(df["task"].unique())
     languages_all = sorted(df["language"].unique())

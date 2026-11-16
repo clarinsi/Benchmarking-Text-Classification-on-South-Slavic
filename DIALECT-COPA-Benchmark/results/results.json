@@ -1198,5 +1198,1345 @@
         "Accuracy": 0.762
       }
     }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-en",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.934,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.934
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.996,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.996
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.874,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.874
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.974,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.974
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.998,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.998
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.994,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.994
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.998,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.998
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-en",
+    "Accuracy": 0.998,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.998
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.914,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.914
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.992,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.992
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.82,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.82
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.956,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.956
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.986,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.986
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.984,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.984
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.994,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.994
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-en",
+    "Accuracy": 0.996,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.996
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.81,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.81
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.984,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.984
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.704,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.704
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.9,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.9
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.984,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.984
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.936,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.936
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.982,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.982
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-en",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.974,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.974
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.998,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.998
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.998,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.998
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.994,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.994
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.986,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.986
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.996,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.996
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.998,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.998
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.996,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.996
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-en",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.812,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.812
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.984,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.984
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.978,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.978
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.72,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.72
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.908,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.908
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.98,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.98
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.946,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.946
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.984,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.984
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-en",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.964,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.964
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.994,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.994
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.966,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.966
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.998,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.998
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.992,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.992
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.996,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.996
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-en",
+    "Accuracy": 0.98,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.98
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.708,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.708
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.938,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.938
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.922,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.922
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.572,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.572
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.744,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.744
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.9,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.9
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.822,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.822
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.936,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.936
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-en",
+    "Accuracy": 0.98,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.98
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.684,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.684
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.95,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.95
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.916,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.916
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.56,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.56
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.744,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.744
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.882,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.882
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.838,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.838
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.936,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.936
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-en",
+    "Accuracy": 0.954,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.954
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.612,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.612
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.864,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.864
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.822,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.822
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.55,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.55
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.642,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.642
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.78,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.78
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.724,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.724
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.864,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.864
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.864,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.864
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.882,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.882
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.714,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.714
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.842,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.842
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.69,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.69
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.88,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.88
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.972,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.972
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.724,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.724
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.766,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.766
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.846,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.846
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-en",
+    "Accuracy": 0.984,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.984
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.632,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.632
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.93,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.93
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.908,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.908
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.554,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.554
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.872,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.872
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.796,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.796
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.918,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.918
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-en",
+    "Accuracy": 0.992,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.992
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-hr-ckm",
+    "Accuracy": 0.76,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.76
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-hr",
+    "Accuracy": 0.978,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.978
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-mk",
+    "Accuracy": 0.968,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.968
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-sl-cer",
+    "Accuracy": 0.636,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.636
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-sl",
+    "Accuracy": 0.942,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.942
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-sr-tor",
+    "Accuracy": 0.924,
+    "Language-Specific Scores": {
+      "sr-tor": {
+        "Accuracy": 0.924
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-sr",
+    "Accuracy": 0.982,
+    "Language-Specific Scores": {
+      "sr": {
+        "Accuracy": 0.982
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.538,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.538
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.526,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.526
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.528,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.528
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.89,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.89
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.756,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.756
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.604,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.604
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.902,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.902
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.606,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.606
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.988,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.988
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.566,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.566
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.516,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.516
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.498,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.498
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.59,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.59
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.89,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.89
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.584,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.584
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.984,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.984
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.538,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.538
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.58,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.58
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.532,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.532
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.546,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.546
+      }
+    }
+  },
+  {
+    "Model": "deepseek/deepseek-r1-0528",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.824,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.824
+      }
+    }
+  },
+  {
+    "Model": "deepseek/deepseek-r1-0528",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.546,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.546
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.72,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.72
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.528,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.528
+      }
+    }
+  },
+  {
+    "Model": "hf.co/mradermacher/GaMS-27B-Instruct-i1-GGUF:latest",
+    "Test Dataset": "copa-sl-prl",
+    "Accuracy": 0.81,
+    "Language-Specific Scores": {
+      "sl-prl": {
+        "Accuracy": 0.81
+      }
+    }
+  },
+  {
+    "Model": "hf.co/mradermacher/GaMS-27B-Instruct-i1-GGUF:latest",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.55,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.55
+      }
+    }
   }
 ]
