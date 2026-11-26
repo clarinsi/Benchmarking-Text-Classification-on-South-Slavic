@@ -18,5 +18,11 @@ if __name__ == "__main__":
         #"--server.showEmailPrompt=false",
         "--server.enableCORS=false",
         "--server.enableXsrfProtection=false",
-        "--server.enableWebsocketCompression=false"
+        "--server.enableWebsocketCompression=false",
+        # Theme (also in .streamlit/config.toml, repeated here so it applies whatever the working directory)
+        "--theme.base=light",
+        "--theme.primaryColor=#0080aa",
+        "--theme.backgroundColor=#FFFFFF",
+        "--theme.secondaryBackgroundColor=#F4F8FA",
+        "--theme.textColor=#10212B",
     ])
