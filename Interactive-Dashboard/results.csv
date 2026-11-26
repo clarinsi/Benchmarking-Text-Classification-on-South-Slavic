@@ -1,1019 +1,1169 @@
 task,model,language,metric,value,source_model
-PIQA,Claude Haiku 4.5,Bulgarian,accuracy,0.96,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Bosnian,accuracy,1.0,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,English,accuracy,0.91,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Croatian,accuracy,0.98,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Chakavian Dialect,accuracy,0.5,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Macedonian,accuracy,0.94,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Slovenian,accuracy,0.89,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Cerkno Dialect,accuracy,0.57,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Prlekija Dialect,accuracy,0.59,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Šatrovački Dialect (cyrillic),accuracy,0.47,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Šatrovački Dialect,accuracy,0.51,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Torlak Dialect (cyrillic),accuracy,0.73,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Torlak Dialect,accuracy,0.7,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Serbian (cyrillic),accuracy,0.96,anthropic/claude-haiku-4.5
-PIQA,Claude Haiku 4.5,Serbian,accuracy,0.94,anthropic/claude-haiku-4.5
-PIQA,Claude Opus 4.6,Bulgarian,accuracy,0.98,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Bosnian,accuracy,1.0,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,English,accuracy,0.95,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Croatian,accuracy,1.0,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Chakavian Dialect,accuracy,0.62,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Macedonian,accuracy,1.0,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Slovenian,accuracy,0.97,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Cerkno Dialect,accuracy,0.74,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Prlekija Dialect,accuracy,0.85,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Šatrovački Dialect (cyrillic),accuracy,0.58,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Šatrovački Dialect,accuracy,0.61,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Torlak Dialect (cyrillic),accuracy,0.89,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Torlak Dialect,accuracy,0.87,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Serbian (cyrillic),accuracy,0.97,anthropic/claude-opus-4.6
-PIQA,Claude Opus 4.6,Serbian,accuracy,0.95,anthropic/claude-opus-4.6
-PIQA,Claude Sonnet 4.6,Bulgarian,accuracy,0.99,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Bosnian,accuracy,1.0,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,English,accuracy,0.94,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Croatian,accuracy,1.0,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Chakavian Dialect,accuracy,0.61,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Macedonian,accuracy,0.99,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Slovenian,accuracy,0.97,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Cerkno Dialect,accuracy,0.67,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Prlekija Dialect,accuracy,0.76,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Šatrovački Dialect (cyrillic),accuracy,0.51,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Šatrovački Dialect,accuracy,0.53,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Torlak Dialect (cyrillic),accuracy,0.87,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Torlak Dialect,accuracy,0.87,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Serbian (cyrillic),accuracy,0.96,anthropic/claude-sonnet-4.6
-PIQA,Claude Sonnet 4.6,Serbian,accuracy,0.94,anthropic/claude-sonnet-4.6
-PIQA,DeepSeek-R1-0528,Bulgarian,accuracy,0.96,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Bosnian,accuracy,0.99,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,English,accuracy,0.93,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Croatian,accuracy,0.98,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Chakavian Dialect,accuracy,0.54,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Macedonian,accuracy,0.96,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Slovenian,accuracy,0.96,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Cerkno Dialect,accuracy,0.67,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Prlekija Dialect,accuracy,0.74,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Šatrovački Dialect (cyrillic),accuracy,0.41,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Šatrovački Dialect,accuracy,0.42,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Torlak Dialect (cyrillic),accuracy,0.87,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Torlak Dialect,accuracy,0.8,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Serbian (cyrillic),accuracy,0.94,deepseek/deepseek-r1-0528
-PIQA,DeepSeek-R1-0528,Serbian,accuracy,0.91,deepseek/deepseek-r1-0528
-PIQA,Gemini 2.5 Flash,Bulgarian,accuracy,0.96,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Bosnian,accuracy,1.0,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,English,accuracy,0.94,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Croatian,accuracy,0.99,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Chakavian Dialect,accuracy,0.61,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Macedonian,accuracy,0.99,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Slovenian,accuracy,0.96,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Cerkno Dialect,accuracy,0.77,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Prlekija Dialect,accuracy,0.86,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Šatrovački Dialect (cyrillic),accuracy,0.6,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Šatrovački Dialect,accuracy,0.53,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Torlak Dialect (cyrillic),accuracy,0.83,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Torlak Dialect,accuracy,0.85,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Serbian (cyrillic),accuracy,0.95,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Flash,Serbian,accuracy,0.94,google/gemini-2.5-flash
-PIQA,Gemini 2.5 Pro,Bulgarian,accuracy,0.96,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Bosnian,accuracy,0.98,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,English,accuracy,0.95,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Croatian,accuracy,0.98,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Chakavian Dialect,accuracy,0.79,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Macedonian,accuracy,1.0,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Slovenian,accuracy,1.0,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Cerkno Dialect,accuracy,0.95,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Prlekija Dialect,accuracy,0.9,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Šatrovački Dialect (cyrillic),accuracy,0.67,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Šatrovački Dialect,accuracy,0.65,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Torlak Dialect (cyrillic),accuracy,0.93,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Torlak Dialect,accuracy,0.92,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Serbian (cyrillic),accuracy,0.96,google/gemini-2.5-pro
-PIQA,Gemini 2.5 Pro,Serbian,accuracy,0.93,google/gemini-2.5-pro
-PIQA,Gemini 3 Flash Preview,Bulgarian,accuracy,0.96,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Bosnian,accuracy,0.99,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,English,accuracy,0.96,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Croatian,accuracy,0.99,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Chakavian Dialect,accuracy,0.73,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Macedonian,accuracy,1.0,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Slovenian,accuracy,1.0,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Cerkno Dialect,accuracy,0.92,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Prlekija Dialect,accuracy,0.9,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Šatrovački Dialect (cyrillic),accuracy,0.78,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Šatrovački Dialect,accuracy,0.68,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Torlak Dialect (cyrillic),accuracy,0.93,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Torlak Dialect,accuracy,0.95,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Serbian (cyrillic),accuracy,0.98,google/gemini-3-flash-preview
-PIQA,Gemini 3 Flash Preview,Serbian,accuracy,0.96,google/gemini-3-flash-preview
-PIQA,Gemini 3.1 Flash Lite,Bulgarian,accuracy,0.99,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Bosnian,accuracy,1.0,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,English,accuracy,0.95,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Croatian,accuracy,1.0,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Chakavian Dialect,accuracy,0.62,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Macedonian,accuracy,1.0,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Slovenian,accuracy,0.98,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Cerkno Dialect,accuracy,0.78,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Prlekija Dialect,accuracy,0.84,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Šatrovački Dialect (cyrillic),accuracy,0.63,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Šatrovački Dialect,accuracy,0.64,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Torlak Dialect (cyrillic),accuracy,0.89,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Torlak Dialect,accuracy,0.87,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Serbian (cyrillic),accuracy,0.95,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Flash Lite,Serbian,accuracy,0.97,google/gemini-3.1-flash-lite-preview
-PIQA,Gemini 3.1 Pro Preview,Bulgarian,accuracy,0.98,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Bosnian,accuracy,1.0,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,English,accuracy,0.95,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Croatian,accuracy,1.0,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Chakavian Dialect,accuracy,0.79,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Macedonian,accuracy,1.0,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Slovenian,accuracy,1.0,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Cerkno Dialect,accuracy,0.96,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Prlekija Dialect,accuracy,0.92,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Šatrovački Dialect (cyrillic),accuracy,1.0,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Šatrovački Dialect,accuracy,0.99,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Torlak Dialect (cyrillic),accuracy,0.96,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Torlak Dialect,accuracy,0.95,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Serbian (cyrillic),accuracy,0.99,google/gemini-3.1-pro-preview
-PIQA,Gemini 3.1 Pro Preview,Serbian,accuracy,0.99,google/gemini-3.1-pro-preview
-PIQA,Gemma 3,Bulgarian,accuracy,0.95,google/gemma-3-27b-it
-PIQA,Gemma 3,Bosnian,accuracy,1.0,google/gemma-3-27b-it
-PIQA,Gemma 3,English,accuracy,0.89,google/gemma-3-27b-it
-PIQA,Gemma 3,Croatian,accuracy,0.93,google/gemma-3-27b-it
-PIQA,Gemma 3,Chakavian Dialect,accuracy,0.45,google/gemma-3-27b-it
-PIQA,Gemma 3,Macedonian,accuracy,0.9,google/gemma-3-27b-it
-PIQA,Gemma 3,Slovenian,accuracy,0.83,google/gemma-3-27b-it
-PIQA,Gemma 3,Cerkno Dialect,accuracy,0.57,google/gemma-3-27b-it
-PIQA,Gemma 3,Prlekija Dialect,accuracy,0.7,google/gemma-3-27b-it
-PIQA,Gemma 3,Šatrovački Dialect (cyrillic),accuracy,0.54,google/gemma-3-27b-it
-PIQA,Gemma 3,Šatrovački Dialect,accuracy,0.45,google/gemma-3-27b-it
-PIQA,Gemma 3,Torlak Dialect (cyrillic),accuracy,0.72,google/gemma-3-27b-it
-PIQA,Gemma 3,Torlak Dialect,accuracy,0.68,google/gemma-3-27b-it
-PIQA,Gemma 3,Serbian (cyrillic),accuracy,0.89,google/gemma-3-27b-it
-PIQA,Gemma 3,Serbian,accuracy,0.9,google/gemma-3-27b-it
-PIQA,Gemma 4 26B,Bulgarian,accuracy,0.96,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Bosnian,accuracy,1.0,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,English,accuracy,0.92,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Croatian,accuracy,0.96,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Chakavian Dialect,accuracy,0.56,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Macedonian,accuracy,0.95,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Slovenian,accuracy,0.9,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Cerkno Dialect,accuracy,0.6,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Prlekija Dialect,accuracy,0.63,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Šatrovački Dialect (cyrillic),accuracy,0.59,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Šatrovački Dialect,accuracy,0.51,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Torlak Dialect (cyrillic),accuracy,0.7,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Torlak Dialect,accuracy,0.72,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Serbian (cyrillic),accuracy,0.93,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 26B,Serbian,accuracy,0.95,google/gemma-4-26b-a4b-it
-PIQA,Gemma 4 31B,Bulgarian,accuracy,0.97,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Bosnian,accuracy,1.0,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,English,accuracy,0.95,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Croatian,accuracy,1.0,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Chakavian Dialect,accuracy,0.52,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Macedonian,accuracy,0.97,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Slovenian,accuracy,0.89,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Cerkno Dialect,accuracy,0.65,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Prlekija Dialect,accuracy,0.8,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Šatrovački Dialect (cyrillic),accuracy,0.54,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Šatrovački Dialect,accuracy,0.61,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Torlak Dialect (cyrillic),accuracy,0.72,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Torlak Dialect,accuracy,0.78,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Serbian (cyrillic),accuracy,0.93,google/gemma-4-31b-it
-PIQA,Gemma 4 31B,Serbian,accuracy,0.97,google/gemma-4-31b-it
-PIQA,GaMS-27B-Instruct-i1,Bulgarian,accuracy,0.92,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Bosnian,accuracy,1.0,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,English,accuracy,0.81,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Croatian,accuracy,0.83,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Chakavian Dialect,accuracy,0.52,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Macedonian,accuracy,0.89,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Slovenian,accuracy,0.9,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Cerkno Dialect,accuracy,0.6,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Prlekija Dialect,accuracy,0.72,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Šatrovački Dialect (cyrillic),accuracy,0.48,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Šatrovački Dialect,accuracy,0.5,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Torlak Dialect (cyrillic),accuracy,0.6,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Torlak Dialect,accuracy,0.56,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Serbian (cyrillic),accuracy,0.77,cjvt/GaMS-27B-Instruct-i1
-PIQA,GaMS-27B-Instruct-i1,Serbian,accuracy,0.8,cjvt/GaMS-27B-Instruct-i1
-PIQA,LLaMA 3.3,Bulgarian,accuracy,0.98,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Bosnian,accuracy,1.0,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,English,accuracy,0.91,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Croatian,accuracy,0.89,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Chakavian Dialect,accuracy,0.53,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Macedonian,accuracy,0.95,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Slovenian,accuracy,0.83,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Cerkno Dialect,accuracy,0.54,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Prlekija Dialect,accuracy,0.68,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Šatrovački Dialect (cyrillic),accuracy,0.5,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Šatrovački Dialect,accuracy,0.55,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Torlak Dialect (cyrillic),accuracy,0.64,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Torlak Dialect,accuracy,0.62,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Serbian (cyrillic),accuracy,0.89,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 3.3,Serbian,accuracy,0.87,meta-llama/llama-3.3-70b-instruct
-PIQA,LLaMA 4 Maverick,Bulgarian,accuracy,0.97,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Bosnian,accuracy,1.0,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,English,accuracy,0.88,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Croatian,accuracy,0.92,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Chakavian Dialect,accuracy,0.57,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Macedonian,accuracy,0.97,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Slovenian,accuracy,0.86,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Cerkno Dialect,accuracy,0.57,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Prlekija Dialect,accuracy,0.66,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Šatrovački Dialect (cyrillic),accuracy,0.47,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Šatrovački Dialect,accuracy,0.47,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Torlak Dialect (cyrillic),accuracy,0.74,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Torlak Dialect,accuracy,0.74,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Serbian (cyrillic),accuracy,0.89,meta-llama/llama-4-maverick
-PIQA,LLaMA 4 Maverick,Serbian,accuracy,0.9,meta-llama/llama-4-maverick
-PIQA,Mistral Large,Bulgarian,accuracy,0.97,mistralai/mistral-large-2512
-PIQA,Mistral Large,Bosnian,accuracy,0.99,mistralai/mistral-large-2512
-PIQA,Mistral Large,English,accuracy,0.9,mistralai/mistral-large-2512
-PIQA,Mistral Large,Croatian,accuracy,0.96,mistralai/mistral-large-2512
-PIQA,Mistral Large,Chakavian Dialect,accuracy,0.57,mistralai/mistral-large-2512
-PIQA,Mistral Large,Macedonian,accuracy,0.98,mistralai/mistral-large-2512
-PIQA,Mistral Large,Slovenian,accuracy,0.91,mistralai/mistral-large-2512
-PIQA,Mistral Large,Cerkno Dialect,accuracy,0.53,mistralai/mistral-large-2512
-PIQA,Mistral Large,Prlekija Dialect,accuracy,0.63,mistralai/mistral-large-2512
-PIQA,Mistral Large,Šatrovački Dialect (cyrillic),accuracy,0.45,mistralai/mistral-large-2512
-PIQA,Mistral Large,Šatrovački Dialect,accuracy,0.25,mistralai/mistral-large-2512
-PIQA,Mistral Large,Torlak Dialect (cyrillic),accuracy,0.73,mistralai/mistral-large-2512
-PIQA,Mistral Large,Torlak Dialect,accuracy,0.69,mistralai/mistral-large-2512
-PIQA,Mistral Large,Serbian (cyrillic),accuracy,0.94,mistralai/mistral-large-2512
-PIQA,Mistral Large,Serbian,accuracy,0.93,mistralai/mistral-large-2512
-PIQA,Mistral Medium 3.1,Bulgarian,accuracy,0.95,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Bosnian,accuracy,1.0,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,English,accuracy,0.94,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Croatian,accuracy,0.96,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Chakavian Dialect,accuracy,0.53,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Macedonian,accuracy,0.92,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Slovenian,accuracy,0.86,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Cerkno Dialect,accuracy,0.62,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Prlekija Dialect,accuracy,0.71,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Šatrovački Dialect (cyrillic),accuracy,0.56,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Šatrovački Dialect,accuracy,0.54,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Torlak Dialect (cyrillic),accuracy,0.78,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Torlak Dialect,accuracy,0.67,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Serbian (cyrillic),accuracy,0.97,mistralai/mistral-medium-3.1
-PIQA,Mistral Medium 3.1,Serbian,accuracy,0.93,mistralai/mistral-medium-3.1
-PIQA,Mistral Small,Bulgarian,accuracy,0.98,mistralai/mistral-small-2603
-PIQA,Mistral Small,Bosnian,accuracy,0.99,mistralai/mistral-small-2603
-PIQA,Mistral Small,English,accuracy,0.88,mistralai/mistral-small-2603
-PIQA,Mistral Small,Croatian,accuracy,0.95,mistralai/mistral-small-2603
-PIQA,Mistral Small,Chakavian Dialect,accuracy,0.58,mistralai/mistral-small-2603
-PIQA,Mistral Small,Macedonian,accuracy,0.93,mistralai/mistral-small-2603
-PIQA,Mistral Small,Slovenian,accuracy,0.78,mistralai/mistral-small-2603
-PIQA,Mistral Small,Cerkno Dialect,accuracy,0.49,mistralai/mistral-small-2603
-PIQA,Mistral Small,Prlekija Dialect,accuracy,0.62,mistralai/mistral-small-2603
-PIQA,Mistral Small,Šatrovački Dialect (cyrillic),accuracy,0.52,mistralai/mistral-small-2603
-PIQA,Mistral Small,Šatrovački Dialect,accuracy,0.51,mistralai/mistral-small-2603
-PIQA,Mistral Small,Torlak Dialect (cyrillic),accuracy,0.58,mistralai/mistral-small-2603
-PIQA,Mistral Small,Torlak Dialect,accuracy,0.59,mistralai/mistral-small-2603
-PIQA,Mistral Small,Serbian (cyrillic),accuracy,0.89,mistralai/mistral-small-2603
-PIQA,Mistral Small,Serbian,accuracy,0.87,mistralai/mistral-small-2603
-PIQA,GPT-3.5-Turbo,Bulgarian,accuracy,0.78,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Bosnian,accuracy,0.99,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,English,accuracy,0.86,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Croatian,accuracy,0.88,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Chakavian Dialect,accuracy,0.49,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Macedonian,accuracy,0.8,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Slovenian,accuracy,0.78,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Cerkno Dialect,accuracy,0.5,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Prlekija Dialect,accuracy,0.54,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Šatrovački Dialect (cyrillic),accuracy,0.57,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Šatrovački Dialect,accuracy,0.51,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Torlak Dialect (cyrillic),accuracy,0.58,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Torlak Dialect,accuracy,0.55,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Serbian (cyrillic),accuracy,0.74,openai/gpt-3.5-turbo
-PIQA,GPT-3.5-Turbo,Serbian,accuracy,0.79,openai/gpt-3.5-turbo
-PIQA,GPT-4o,Bulgarian,accuracy,0.97,openai/gpt-4o
-PIQA,GPT-4o,Bosnian,accuracy,1.0,openai/gpt-4o
-PIQA,GPT-4o,English,accuracy,0.97,openai/gpt-4o
-PIQA,GPT-4o,Croatian,accuracy,0.99,openai/gpt-4o
-PIQA,GPT-4o,Chakavian Dialect,accuracy,0.59,openai/gpt-4o
-PIQA,GPT-4o,Macedonian,accuracy,1.0,openai/gpt-4o
-PIQA,GPT-4o,Slovenian,accuracy,0.97,openai/gpt-4o
-PIQA,GPT-4o,Cerkno Dialect,accuracy,0.78,openai/gpt-4o
-PIQA,GPT-4o,Prlekija Dialect,accuracy,0.81,openai/gpt-4o
-PIQA,GPT-4o,Šatrovački Dialect (cyrillic),accuracy,0.53,openai/gpt-4o
-PIQA,GPT-4o,Šatrovački Dialect,accuracy,0.53,openai/gpt-4o
-PIQA,GPT-4o,Torlak Dialect (cyrillic),accuracy,0.88,openai/gpt-4o
-PIQA,GPT-4o,Torlak Dialect,accuracy,0.87,openai/gpt-4o
-PIQA,GPT-4o,Serbian (cyrillic),accuracy,0.95,openai/gpt-4o
-PIQA,GPT-4o,Serbian,accuracy,0.98,openai/gpt-4o
-PIQA,GPT-5,Bulgarian,accuracy,0.97,openai/gpt-5
-PIQA,GPT-5,Bosnian,accuracy,1.0,openai/gpt-5
-PIQA,GPT-5,English,accuracy,0.97,openai/gpt-5
-PIQA,GPT-5,Croatian,accuracy,1.0,openai/gpt-5
-PIQA,GPT-5,Chakavian Dialect,accuracy,0.76,openai/gpt-5
-PIQA,GPT-5,Macedonian,accuracy,1.0,openai/gpt-5
-PIQA,GPT-5,Slovenian,accuracy,0.99,openai/gpt-5
-PIQA,GPT-5,Cerkno Dialect,accuracy,0.88,openai/gpt-5
-PIQA,GPT-5,Prlekija Dialect,accuracy,0.91,openai/gpt-5
-PIQA,GPT-5,Šatrovački Dialect (cyrillic),accuracy,0.7,openai/gpt-5
-PIQA,GPT-5,Šatrovački Dialect,accuracy,0.7,openai/gpt-5
-PIQA,GPT-5,Torlak Dialect (cyrillic),accuracy,0.94,openai/gpt-5
-PIQA,GPT-5,Torlak Dialect,accuracy,0.96,openai/gpt-5
-PIQA,GPT-5,Serbian (cyrillic),accuracy,0.96,openai/gpt-5
-PIQA,GPT-5,Serbian,accuracy,0.99,openai/gpt-5
-PIQA,GPT-5.4,Bulgarian,accuracy,0.99,openai/gpt-5.4
-PIQA,GPT-5.4,Bosnian,accuracy,1.0,openai/gpt-5.4
-PIQA,GPT-5.4,English,accuracy,0.92,openai/gpt-5.4
-PIQA,GPT-5.4,Croatian,accuracy,1.0,openai/gpt-5.4
-PIQA,GPT-5.4,Chakavian Dialect,accuracy,0.58,openai/gpt-5.4
-PIQA,GPT-5.4,Macedonian,accuracy,0.98,openai/gpt-5.4
-PIQA,GPT-5.4,Slovenian,accuracy,0.99,openai/gpt-5.4
-PIQA,GPT-5.4,Cerkno Dialect,accuracy,0.75,openai/gpt-5.4
-PIQA,GPT-5.4,Prlekija Dialect,accuracy,0.85,openai/gpt-5.4
-PIQA,GPT-5.4,Šatrovački Dialect (cyrillic),accuracy,0.61,openai/gpt-5.4
-PIQA,GPT-5.4,Šatrovački Dialect,accuracy,0.57,openai/gpt-5.4
-PIQA,GPT-5.4,Torlak Dialect (cyrillic),accuracy,0.9,openai/gpt-5.4
-PIQA,GPT-5.4,Torlak Dialect,accuracy,0.84,openai/gpt-5.4
-PIQA,GPT-5.4,Serbian (cyrillic),accuracy,0.96,openai/gpt-5.4
-PIQA,GPT-5.4,Serbian,accuracy,0.95,openai/gpt-5.4
-PIQA,GPT-5.4 Pro,Bulgarian,accuracy,1.0,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Bosnian,accuracy,1.0,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,English,accuracy,0.96,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Croatian,accuracy,1.0,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Chakavian Dialect,accuracy,0.85,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Macedonian,accuracy,0.99,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Slovenian,accuracy,0.98,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Cerkno Dialect,accuracy,0.96,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Prlekija Dialect,accuracy,0.93,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Šatrovački Dialect (cyrillic),accuracy,0.94,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Šatrovački Dialect,accuracy,0.92,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Torlak Dialect (cyrillic),accuracy,0.95,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Torlak Dialect,accuracy,0.95,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Serbian (cyrillic),accuracy,1.0,openai/gpt-5.4-pro
-PIQA,GPT-5.4 Pro,Serbian,accuracy,0.99,openai/gpt-5.4-pro
-PIQA,Qwen 3,Bulgarian,accuracy,0.99,qwen/qwen3-32b
-PIQA,Qwen 3,Bosnian,accuracy,0.99,qwen/qwen3-32b
-PIQA,Qwen 3,English,accuracy,0.93,qwen/qwen3-32b
-PIQA,Qwen 3,Croatian,accuracy,0.9,qwen/qwen3-32b
-PIQA,Qwen 3,Chakavian Dialect,accuracy,0.54,qwen/qwen3-32b
-PIQA,Qwen 3,Macedonian,accuracy,0.86,qwen/qwen3-32b
-PIQA,Qwen 3,Slovenian,accuracy,0.75,qwen/qwen3-32b
-PIQA,Qwen 3,Cerkno Dialect,accuracy,0.49,qwen/qwen3-32b
-PIQA,Qwen 3,Prlekija Dialect,accuracy,0.69,qwen/qwen3-32b
-PIQA,Qwen 3,Šatrovački Dialect (cyrillic),accuracy,0.56,qwen/qwen3-32b
-PIQA,Qwen 3,Šatrovački Dialect,accuracy,0.54,qwen/qwen3-32b
-PIQA,Qwen 3,Torlak Dialect (cyrillic),accuracy,0.71,qwen/qwen3-32b
-PIQA,Qwen 3,Torlak Dialect,accuracy,0.79,qwen/qwen3-32b
-PIQA,Qwen 3,Serbian (cyrillic),accuracy,0.85,qwen/qwen3-32b
-PIQA,Qwen 3,Serbian,accuracy,0.85,qwen/qwen3-32b
-COPA,Claude Haiku 4.5,English,accuracy,0.986,anthropic/claude-haiku-4.5
-COPA,Claude Haiku 4.5,Croatian,accuracy,0.948,anthropic/claude-haiku-4.5
-COPA,Claude Haiku 4.5,Chakavian Dialect,accuracy,0.706,anthropic/claude-haiku-4.5
-COPA,Claude Haiku 4.5,Macedonian,accuracy,0.924,anthropic/claude-haiku-4.5
-COPA,Claude Haiku 4.5,Slovenian,accuracy,0.926,anthropic/claude-haiku-4.5
 COPA,Claude Haiku 4.5,Cerkno Dialect,accuracy,0.562,anthropic/claude-haiku-4.5
-COPA,Claude Haiku 4.5,Prlekija Dialect,accuracy,0.864,anthropic/claude-haiku-4.5
-COPA,Claude Haiku 4.5,Serbian,accuracy,0.956,anthropic/claude-haiku-4.5
-COPA,Claude Haiku 4.5,Šatrovački Dialect,accuracy,0.528,anthropic/claude-haiku-4.5
-COPA,Claude Haiku 4.5,Torlak Dialect,accuracy,0.862,anthropic/claude-haiku-4.5
-COPA,Claude Opus 4.6,English,accuracy,1.0,anthropic/claude-opus-4.6
-COPA,Claude Opus 4.6,Croatian,accuracy,0.996,anthropic/claude-opus-4.6
-COPA,Claude Opus 4.6,Chakavian Dialect,accuracy,0.934,anthropic/claude-opus-4.6
-COPA,Claude Opus 4.6,Macedonian,accuracy,0.99,anthropic/claude-opus-4.6
-COPA,Claude Opus 4.6,Slovenian,accuracy,0.998,anthropic/claude-opus-4.6
 COPA,Claude Opus 4.6,Cerkno Dialect,accuracy,0.874,anthropic/claude-opus-4.6
-COPA,Claude Opus 4.6,Prlekija Dialect,accuracy,0.974,anthropic/claude-opus-4.6
-COPA,Claude Opus 4.6,Serbian,accuracy,0.998,anthropic/claude-opus-4.6
-COPA,Claude Opus 4.6,Šatrovački Dialect,accuracy,0.89,anthropic/claude-opus-4.6
-COPA,Claude Opus 4.6,Torlak Dialect,accuracy,0.994,anthropic/claude-opus-4.6
-COPA,Claude Sonnet 4.6,English,accuracy,0.998,anthropic/claude-sonnet-4.6
-COPA,Claude Sonnet 4.6,Croatian,accuracy,1.0,anthropic/claude-sonnet-4.6
-COPA,Claude Sonnet 4.6,Chakavian Dialect,accuracy,0.914,anthropic/claude-sonnet-4.6
-COPA,Claude Sonnet 4.6,Macedonian,accuracy,0.992,anthropic/claude-sonnet-4.6
-COPA,Claude Sonnet 4.6,Slovenian,accuracy,0.986,anthropic/claude-sonnet-4.6
 COPA,Claude Sonnet 4.6,Cerkno Dialect,accuracy,0.82,anthropic/claude-sonnet-4.6
-COPA,Claude Sonnet 4.6,Prlekija Dialect,accuracy,0.956,anthropic/claude-sonnet-4.6
-COPA,Claude Sonnet 4.6,Serbian,accuracy,0.994,anthropic/claude-sonnet-4.6
-COPA,Claude Sonnet 4.6,Šatrovački Dialect,accuracy,0.756,anthropic/claude-sonnet-4.6
-COPA,Claude Sonnet 4.6,Torlak Dialect,accuracy,0.984,anthropic/claude-sonnet-4.6
-COPA,DeepSeek-R1-0528,English,accuracy,0.984,deepseek/deepseek-r1-0528
-COPA,DeepSeek-R1-0528,Croatian,accuracy,0.954,deepseek/deepseek-r1-0528
-COPA,DeepSeek-R1-0528,Chakavian Dialect,accuracy,0.772,deepseek/deepseek-r1-0528
-COPA,DeepSeek-R1-0528,Macedonian,accuracy,0.916,deepseek/deepseek-r1-0528
-COPA,DeepSeek-R1-0528,Slovenian,accuracy,0.918,deepseek/deepseek-r1-0528
 COPA,DeepSeek-R1-0528,Cerkno Dialect,accuracy,0.612,deepseek/deepseek-r1-0528
-COPA,DeepSeek-R1-0528,Prlekija Dialect,accuracy,0.824,deepseek/deepseek-r1-0528
-COPA,DeepSeek-R1-0528,Serbian,accuracy,0.928,deepseek/deepseek-r1-0528
-COPA,DeepSeek-R1-0528,Šatrovački Dialect,accuracy,0.546,deepseek/deepseek-r1-0528
-COPA,DeepSeek-R1-0528,Torlak Dialect,accuracy,0.844,deepseek/deepseek-r1-0528
-COPA,Gemini 2.5 Flash,English,accuracy,0.99,google/gemini-2.5-flash
-COPA,Gemini 2.5 Flash,Croatian,accuracy,0.98,google/gemini-2.5-flash
-COPA,Gemini 2.5 Flash,Chakavian Dialect,accuracy,0.79,google/gemini-2.5-flash
-COPA,Gemini 2.5 Flash,Macedonian,accuracy,0.968,google/gemini-2.5-flash
-COPA,Gemini 2.5 Flash,Slovenian,accuracy,0.974,google/gemini-2.5-flash
 COPA,Gemini 2.5 Flash,Cerkno Dialect,accuracy,0.742,google/gemini-2.5-flash
-COPA,Gemini 2.5 Flash,Prlekija Dialect,accuracy,0.882,google/gemini-2.5-flash
-COPA,Gemini 2.5 Flash,Serbian,accuracy,0.972,google/gemini-2.5-flash
-COPA,Gemini 2.5 Flash,Šatrovački Dialect,accuracy,0.604,google/gemini-2.5-flash
-COPA,Gemini 2.5 Flash,Torlak Dialect,accuracy,0.944,google/gemini-2.5-flash
-COPA,Gemini 2.5 Pro,English,accuracy,0.99,google/gemini-2.5-pro
-COPA,Gemini 2.5 Pro,Croatian,accuracy,0.99,google/gemini-2.5-pro
-COPA,Gemini 2.5 Pro,Chakavian Dialect,accuracy,0.93,google/gemini-2.5-pro
-COPA,Gemini 2.5 Pro,Macedonian,accuracy,0.986,google/gemini-2.5-pro
-COPA,Gemini 2.5 Pro,Slovenian,accuracy,0.986,google/gemini-2.5-pro
 COPA,Gemini 2.5 Pro,Cerkno Dialect,accuracy,0.864,google/gemini-2.5-pro
-COPA,Gemini 2.5 Pro,Prlekija Dialect,accuracy,0.97,google/gemini-2.5-pro
-COPA,Gemini 2.5 Pro,Serbian,accuracy,0.994,google/gemini-2.5-pro
-COPA,Gemini 2.5 Pro,Šatrovački Dialect,accuracy,0.902,google/gemini-2.5-pro
-COPA,Gemini 2.5 Pro,Torlak Dialect,accuracy,0.98,google/gemini-2.5-pro
-COPA,Gemini 3.1 Flash Lite,English,accuracy,0.996,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Flash Lite,Croatian,accuracy,0.99,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Flash Lite,Chakavian Dialect,accuracy,0.81,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Flash Lite,Macedonian,accuracy,0.984,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Flash Lite,Slovenian,accuracy,0.984,google/gemini-3.1-flash-lite-preview
 COPA,Gemini 3.1 Flash Lite,Cerkno Dialect,accuracy,0.704,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Flash Lite,Prlekija Dialect,accuracy,0.9,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Flash Lite,Serbian,accuracy,0.982,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Flash Lite,Šatrovački Dialect,accuracy,0.606,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Flash Lite,Torlak Dialect,accuracy,0.936,google/gemini-3.1-flash-lite-preview
-COPA,Gemini 3.1 Pro Preview,English,accuracy,1.0,google/gemini-3.1-pro-preview
-COPA,Gemini 3.1 Pro Preview,Croatian,accuracy,0.998,google/gemini-3.1-pro-preview
-COPA,Gemini 3.1 Pro Preview,Chakavian Dialect,accuracy,0.974,google/gemini-3.1-pro-preview
-COPA,Gemini 3.1 Pro Preview,Macedonian,accuracy,0.998,google/gemini-3.1-pro-preview
-COPA,Gemini 3.1 Pro Preview,Slovenian,accuracy,0.996,google/gemini-3.1-pro-preview
 COPA,Gemini 3.1 Pro Preview,Cerkno Dialect,accuracy,0.994,google/gemini-3.1-pro-preview
-COPA,Gemini 3.1 Pro Preview,Prlekija Dialect,accuracy,0.986,google/gemini-3.1-pro-preview
-COPA,Gemini 3.1 Pro Preview,Serbian,accuracy,0.996,google/gemini-3.1-pro-preview
-COPA,Gemini 3.1 Pro Preview,Šatrovački Dialect,accuracy,0.988,google/gemini-3.1-pro-preview
-COPA,Gemini 3.1 Pro Preview,Torlak Dialect,accuracy,0.998,google/gemini-3.1-pro-preview
-COPA,Gemma 4 26B,English,accuracy,0.984,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 26B,Croatian,accuracy,0.93,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 26B,Chakavian Dialect,accuracy,0.632,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 26B,Macedonian,accuracy,0.908,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 26B,Slovenian,accuracy,0.872,google/gemma-4-26b-a4b-it
 COPA,Gemma 4 26B,Cerkno Dialect,accuracy,0.554,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 26B,Prlekija Dialect,accuracy,0.714,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 26B,Serbian,accuracy,0.918,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 26B,Šatrovački Dialect,accuracy,0.566,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 26B,Torlak Dialect,accuracy,0.796,google/gemma-4-26b-a4b-it
-COPA,Gemma 4 31B,English,accuracy,0.992,google/gemma-4-31b-it
-COPA,Gemma 4 31B,Croatian,accuracy,0.978,google/gemma-4-31b-it
-COPA,Gemma 4 31B,Chakavian Dialect,accuracy,0.76,google/gemma-4-31b-it
-COPA,Gemma 4 31B,Macedonian,accuracy,0.968,google/gemma-4-31b-it
-COPA,Gemma 4 31B,Slovenian,accuracy,0.942,google/gemma-4-31b-it
 COPA,Gemma 4 31B,Cerkno Dialect,accuracy,0.636,google/gemma-4-31b-it
-COPA,Gemma 4 31B,Prlekija Dialect,accuracy,0.842,google/gemma-4-31b-it
-COPA,Gemma 4 31B,Serbian,accuracy,0.982,google/gemma-4-31b-it
-COPA,Gemma 4 31B,Šatrovački Dialect,accuracy,0.516,google/gemma-4-31b-it
-COPA,Gemma 4 31B,Torlak Dialect,accuracy,0.924,google/gemma-4-31b-it
-COPA,Gemma 3,English,accuracy,0.97,google/gemma3:27b
-COPA,Gemma 3,Croatian,accuracy,0.894,google/gemma3:27b
-COPA,Gemma 3,Chakavian Dialect,accuracy,0.642,google/gemma3:27b
-COPA,Gemma 3,Macedonian,accuracy,0.904,google/gemma3:27b
-COPA,Gemma 3,Slovenian,accuracy,0.862,google/gemma3:27b
 COPA,Gemma 3,Cerkno Dialect,accuracy,0.578,google/gemma3:27b
-COPA,Gemma 3,Prlekija Dialect,accuracy,0.72,google/gemma3:27b
-COPA,Gemma 3,Serbian,accuracy,0.9,google/gemma3:27b
-COPA,Gemma 3,Šatrovački Dialect,accuracy,0.528,google/gemma3:27b
-COPA,Gemma 3,Torlak Dialect,accuracy,0.82,google/gemma3:27b
-COPA,GaMS-27B-Instruct-i1,English,accuracy,0.954,cjvt/GaMS-27B-Instruct-i1
-COPA,GaMS-27B-Instruct-i1,Croatian,accuracy,0.884,cjvt/GaMS-27B-Instruct-i1
-COPA,GaMS-27B-Instruct-i1,Chakavian Dialect,accuracy,0.64,cjvt/GaMS-27B-Instruct-i1
-COPA,GaMS-27B-Instruct-i1,Macedonian,accuracy,0.804,cjvt/GaMS-27B-Instruct-i1
-COPA,GaMS-27B-Instruct-i1,Slovenian,accuracy,0.908,cjvt/GaMS-27B-Instruct-i1
 COPA,GaMS-27B-Instruct-i1,Cerkno Dialect,accuracy,0.63,cjvt/GaMS-27B-Instruct-i1
-COPA,GaMS-27B-Instruct-i1,Prlekija Dialect,accuracy,0.81,cjvt/GaMS-27B-Instruct-i1
-COPA,GaMS-27B-Instruct-i1,Serbian,accuracy,0.876,cjvt/GaMS-27B-Instruct-i1
-COPA,GaMS-27B-Instruct-i1,Šatrovački Dialect,accuracy,0.55,cjvt/GaMS-27B-Instruct-i1
-COPA,GaMS-27B-Instruct-i1,Torlak Dialect,accuracy,0.756,cjvt/GaMS-27B-Instruct-i1
-COPA,LLaMA 3.3,English,accuracy,0.986,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 3.3,Croatian,accuracy,0.926,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 3.3,Chakavian Dialect,accuracy,0.674,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 3.3,Macedonian,accuracy,0.894,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 3.3,Slovenian,accuracy,0.87,meta-llama/llama-3.3-70b-instruct
 COPA,LLaMA 3.3,Cerkno Dialect,accuracy,0.536,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 3.3,Prlekija Dialect,accuracy,0.724,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 3.3,Serbian,accuracy,0.922,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 3.3,Šatrovački Dialect,accuracy,0.538,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 3.3,Torlak Dialect,accuracy,0.798,meta-llama/llama-3.3-70b-instruct
-COPA,LLaMA 4 Maverick,English,accuracy,0.98,meta-llama/llama-4-maverick
-COPA,LLaMA 4 Maverick,Croatian,accuracy,0.938,meta-llama/llama-4-maverick
-COPA,LLaMA 4 Maverick,Chakavian Dialect,accuracy,0.708,meta-llama/llama-4-maverick
-COPA,LLaMA 4 Maverick,Macedonian,accuracy,0.922,meta-llama/llama-4-maverick
-COPA,LLaMA 4 Maverick,Slovenian,accuracy,0.9,meta-llama/llama-4-maverick
 COPA,LLaMA 4 Maverick,Cerkno Dialect,accuracy,0.572,meta-llama/llama-4-maverick
-COPA,LLaMA 4 Maverick,Prlekija Dialect,accuracy,0.744,meta-llama/llama-4-maverick
-COPA,LLaMA 4 Maverick,Serbian,accuracy,0.936,meta-llama/llama-4-maverick
-COPA,LLaMA 4 Maverick,Šatrovački Dialect,accuracy,0.538,meta-llama/llama-4-maverick
-COPA,LLaMA 4 Maverick,Torlak Dialect,accuracy,0.822,meta-llama/llama-4-maverick
-COPA,Mistral Large,English,accuracy,0.98,mistralai/mistral-large-2512
-COPA,Mistral Large,Croatian,accuracy,0.95,mistralai/mistral-large-2512
-COPA,Mistral Large,Chakavian Dialect,accuracy,0.684,mistralai/mistral-large-2512
-COPA,Mistral Large,Macedonian,accuracy,0.916,mistralai/mistral-large-2512
-COPA,Mistral Large,Slovenian,accuracy,0.882,mistralai/mistral-large-2512
 COPA,Mistral Large,Cerkno Dialect,accuracy,0.56,mistralai/mistral-large-2512
-COPA,Mistral Large,Prlekija Dialect,accuracy,0.744,mistralai/mistral-large-2512
-COPA,Mistral Large,Serbian,accuracy,0.936,mistralai/mistral-large-2512
-COPA,Mistral Large,Šatrovački Dialect,accuracy,0.526,mistralai/mistral-large-2512
-COPA,Mistral Large,Torlak Dialect,accuracy,0.838,mistralai/mistral-large-2512
-COPA,Mistral Medium 3.1,English,accuracy,0.986,mistralai/mistral-medium-3.1
-COPA,Mistral Medium 3.1,Croatian,accuracy,0.942,mistralai/mistral-medium-3.1
-COPA,Mistral Medium 3.1,Chakavian Dialect,accuracy,0.7,mistralai/mistral-medium-3.1
-COPA,Mistral Medium 3.1,Macedonian,accuracy,0.9,mistralai/mistral-medium-3.1
-COPA,Mistral Medium 3.1,Slovenian,accuracy,0.9,mistralai/mistral-medium-3.1
 COPA,Mistral Medium 3.1,Cerkno Dialect,accuracy,0.532,mistralai/mistral-medium-3.1
-COPA,Mistral Medium 3.1,Prlekija Dialect,accuracy,0.766,mistralai/mistral-medium-3.1
-COPA,Mistral Medium 3.1,Serbian,accuracy,0.932,mistralai/mistral-medium-3.1
-COPA,Mistral Medium 3.1,Šatrovački Dialect,accuracy,0.58,mistralai/mistral-medium-3.1
-COPA,Mistral Medium 3.1,Torlak Dialect,accuracy,0.824,mistralai/mistral-medium-3.1
-COPA,Mistral Small,English,accuracy,0.954,mistralai/mistral-small-2603
-COPA,Mistral Small,Croatian,accuracy,0.864,mistralai/mistral-small-2603
-COPA,Mistral Small,Chakavian Dialect,accuracy,0.612,mistralai/mistral-small-2603
-COPA,Mistral Small,Macedonian,accuracy,0.822,mistralai/mistral-small-2603
-COPA,Mistral Small,Slovenian,accuracy,0.78,mistralai/mistral-small-2603
 COPA,Mistral Small,Cerkno Dialect,accuracy,0.55,mistralai/mistral-small-2603
-COPA,Mistral Small,Prlekija Dialect,accuracy,0.642,mistralai/mistral-small-2603
-COPA,Mistral Small,Serbian,accuracy,0.864,mistralai/mistral-small-2603
-COPA,Mistral Small,Šatrovački Dialect,accuracy,0.532,mistralai/mistral-small-2603
-COPA,Mistral Small,Torlak Dialect,accuracy,0.724,mistralai/mistral-small-2603
-COPA,GPT-3.5-Turbo,English,accuracy,0.952,openai/gpt-3.5-turbo
-COPA,GPT-3.5-Turbo,Croatian,accuracy,0.854,openai/gpt-3.5-turbo
-COPA,GPT-3.5-Turbo,Chakavian Dialect,accuracy,0.612,openai/gpt-3.5-turbo
-COPA,GPT-3.5-Turbo,Macedonian,accuracy,0.776,openai/gpt-3.5-turbo
-COPA,GPT-3.5-Turbo,Slovenian,accuracy,0.842,openai/gpt-3.5-turbo
 COPA,GPT-3.5-Turbo,Cerkno Dialect,accuracy,0.528,openai/gpt-3.5-turbo
-COPA,GPT-3.5-Turbo,Prlekija Dialect,accuracy,0.69,openai/gpt-3.5-turbo
-COPA,GPT-3.5-Turbo,Serbian,accuracy,0.808,openai/gpt-3.5-turbo
-COPA,GPT-3.5-Turbo,Šatrovački Dialect,accuracy,0.498,openai/gpt-3.5-turbo
-COPA,GPT-3.5-Turbo,Torlak Dialect,accuracy,0.734,openai/gpt-3.5-turbo
-COPA,GPT-4o,English,accuracy,0.988,openai/gpt-4o
-COPA,GPT-4o,Croatian,accuracy,0.972,openai/gpt-4o
-COPA,GPT-4o,Chakavian Dialect,accuracy,0.774,openai/gpt-4o
-COPA,GPT-4o,Macedonian,accuracy,0.968,openai/gpt-4o
-COPA,GPT-4o,Slovenian,accuracy,0.97,openai/gpt-4o
 COPA,GPT-4o,Cerkno Dialect,accuracy,0.676,openai/gpt-4o
-COPA,GPT-4o,Prlekija Dialect,accuracy,0.88,openai/gpt-4o
-COPA,GPT-4o,Serbian,accuracy,0.972,openai/gpt-4o
-COPA,GPT-4o,Šatrovački Dialect,accuracy,0.59,openai/gpt-4o
-COPA,GPT-4o,Torlak Dialect,accuracy,0.932,openai/gpt-4o
-COPA,GPT-5,English,accuracy,0.996,openai/gpt-5
-COPA,GPT-5,Croatian,accuracy,0.99,openai/gpt-5
-COPA,GPT-5,Chakavian Dialect,accuracy,0.916,openai/gpt-5
-COPA,GPT-5,Macedonian,accuracy,0.986,openai/gpt-5
-COPA,GPT-5,Slovenian,accuracy,0.998,openai/gpt-5
 COPA,GPT-5,Cerkno Dialect,accuracy,0.886,openai/gpt-5
-COPA,GPT-5,Prlekija Dialect,accuracy,0.972,openai/gpt-5
-COPA,GPT-5,Serbian,accuracy,0.992,openai/gpt-5
-COPA,GPT-5,Šatrovački Dialect,accuracy,0.89,openai/gpt-5
-COPA,GPT-5,Torlak Dialect,accuracy,0.984,openai/gpt-5
-COPA,GPT-5.4,English,accuracy,0.99,openai/gpt-5.4
-COPA,GPT-5.4,Croatian,accuracy,0.984,openai/gpt-5.4
-COPA,GPT-5.4,Chakavian Dialect,accuracy,0.812,openai/gpt-5.4
-COPA,GPT-5.4,Macedonian,accuracy,0.978,openai/gpt-5.4
-COPA,GPT-5.4,Slovenian,accuracy,0.98,openai/gpt-5.4
 COPA,GPT-5.4,Cerkno Dialect,accuracy,0.72,openai/gpt-5.4
-COPA,GPT-5.4,Prlekija Dialect,accuracy,0.908,openai/gpt-5.4
-COPA,GPT-5.4,Serbian,accuracy,0.984,openai/gpt-5.4
-COPA,GPT-5.4,Šatrovački Dialect,accuracy,0.584,openai/gpt-5.4
-COPA,GPT-5.4,Torlak Dialect,accuracy,0.946,openai/gpt-5.4
-COPA,GPT-5.4 Pro,English,accuracy,1.0,openai/gpt-5.4-pro
-COPA,GPT-5.4 Pro,Croatian,accuracy,1.0,openai/gpt-5.4-pro
-COPA,GPT-5.4 Pro,Chakavian Dialect,accuracy,0.964,openai/gpt-5.4-pro
-COPA,GPT-5.4 Pro,Macedonian,accuracy,0.994,openai/gpt-5.4-pro
-COPA,GPT-5.4 Pro,Slovenian,accuracy,0.998,openai/gpt-5.4-pro
 COPA,GPT-5.4 Pro,Cerkno Dialect,accuracy,0.966,openai/gpt-5.4-pro
-COPA,GPT-5.4 Pro,Prlekija Dialect,accuracy,0.99,openai/gpt-5.4-pro
-COPA,GPT-5.4 Pro,Serbian,accuracy,0.996,openai/gpt-5.4-pro
-COPA,GPT-5.4 Pro,Šatrovački Dialect,accuracy,0.984,openai/gpt-5.4-pro
-COPA,GPT-5.4 Pro,Torlak Dialect,accuracy,0.992,openai/gpt-5.4-pro
-COPA,Qwen 3,English,accuracy,0.972,qwen/qwen3-32b
-COPA,Qwen 3,Croatian,accuracy,0.9,qwen/qwen3-32b
-COPA,Qwen 3,Chakavian Dialect,accuracy,0.59,qwen/qwen3-32b
-COPA,Qwen 3,Macedonian,accuracy,0.862,qwen/qwen3-32b
-COPA,Qwen 3,Slovenian,accuracy,0.826,qwen/qwen3-32b
 COPA,Qwen 3,Cerkno Dialect,accuracy,0.544,qwen/qwen3-32b
+COPA,Claude Opus 5.5,Cerkno Dialect,accuracy,0.974,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Cerkno Dialect,accuracy,0.912,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Cerkno Dialect,accuracy,0.992,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Cerkno Dialect,accuracy,1,google/gemini-4-neon
+COPA,GPT 6 Luna,Cerkno Dialect,accuracy,0.85,openai/gpt-6-luna
+COPA,GPT 6 Terra,Cerkno Dialect,accuracy,0.974,openai/gpt-6.1-terra
+COPA,Claude Haiku 4.5,Chakavian Dialect,accuracy,0.706,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,Chakavian Dialect,accuracy,0.934,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,Chakavian Dialect,accuracy,0.914,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,Chakavian Dialect,accuracy,0.772,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,Chakavian Dialect,accuracy,0.79,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,Chakavian Dialect,accuracy,0.93,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,Chakavian Dialect,accuracy,0.81,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,Chakavian Dialect,accuracy,0.974,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,Chakavian Dialect,accuracy,0.632,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,Chakavian Dialect,accuracy,0.76,google/gemma-4-31b-it
+COPA,Gemma 3,Chakavian Dialect,accuracy,0.642,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,Chakavian Dialect,accuracy,0.64,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,Chakavian Dialect,accuracy,0.674,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,Chakavian Dialect,accuracy,0.708,meta-llama/llama-4-maverick
+COPA,Mistral Large,Chakavian Dialect,accuracy,0.684,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,Chakavian Dialect,accuracy,0.7,mistralai/mistral-medium-3.1
+COPA,Mistral Small,Chakavian Dialect,accuracy,0.612,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,Chakavian Dialect,accuracy,0.612,openai/gpt-3.5-turbo
+COPA,GPT-4o,Chakavian Dialect,accuracy,0.774,openai/gpt-4o
+COPA,GPT-5,Chakavian Dialect,accuracy,0.916,openai/gpt-5
+COPA,GPT-5.4,Chakavian Dialect,accuracy,0.812,openai/gpt-5.4
+COPA,GPT-5.4 Pro,Chakavian Dialect,accuracy,0.964,openai/gpt-5.4-pro
+COPA,Qwen 3,Chakavian Dialect,accuracy,0.59,qwen/qwen3-32b
+COPA,Claude Opus 5.5,Chakavian Dialect,accuracy,0.982,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Chakavian Dialect,accuracy,0.94,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Chakavian Dialect,accuracy,0.984,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Chakavian Dialect,accuracy,0.994,google/gemini-4-neon
+COPA,GPT 6 Luna,Chakavian Dialect,accuracy,0.9,openai/gpt-6-luna
+COPA,GPT 6 Terra,Chakavian Dialect,accuracy,0.966,openai/gpt-6.1-terra
+COPA,Claude Haiku 4.5,Croatian,accuracy,0.948,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,Croatian,accuracy,0.996,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,Croatian,accuracy,1,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,Croatian,accuracy,0.954,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,Croatian,accuracy,0.98,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,Croatian,accuracy,0.99,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,Croatian,accuracy,0.99,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,Croatian,accuracy,0.998,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,Croatian,accuracy,0.93,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,Croatian,accuracy,0.978,google/gemma-4-31b-it
+COPA,Gemma 3,Croatian,accuracy,0.894,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,Croatian,accuracy,0.884,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,Croatian,accuracy,0.926,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,Croatian,accuracy,0.938,meta-llama/llama-4-maverick
+COPA,Mistral Large,Croatian,accuracy,0.95,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,Croatian,accuracy,0.942,mistralai/mistral-medium-3.1
+COPA,Mistral Small,Croatian,accuracy,0.864,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,Croatian,accuracy,0.854,openai/gpt-3.5-turbo
+COPA,GPT-4o,Croatian,accuracy,0.972,openai/gpt-4o
+COPA,GPT-5,Croatian,accuracy,0.99,openai/gpt-5
+COPA,GPT-5.4,Croatian,accuracy,0.984,openai/gpt-5.4
+COPA,GPT-5.4 Pro,Croatian,accuracy,1,openai/gpt-5.4-pro
+COPA,Qwen 3,Croatian,accuracy,0.9,qwen/qwen3-32b
+COPA,Claude Opus 5.5,Croatian,accuracy,1,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Croatian,accuracy,0.998,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Croatian,accuracy,1,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Croatian,accuracy,1,google/gemini-4-neon
+COPA,GPT 6 Luna,Croatian,accuracy,0.996,openai/gpt-6-luna
+COPA,GPT 6 Terra,Croatian,accuracy,1,openai/gpt-6.1-terra
+COPA,Claude Haiku 4.5,English,accuracy,0.986,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,English,accuracy,1,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,English,accuracy,0.998,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,English,accuracy,0.984,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,English,accuracy,0.99,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,English,accuracy,0.99,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,English,accuracy,0.996,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,English,accuracy,1,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,English,accuracy,0.984,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,English,accuracy,0.992,google/gemma-4-31b-it
+COPA,Gemma 3,English,accuracy,0.97,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,English,accuracy,0.954,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,English,accuracy,0.986,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,English,accuracy,0.98,meta-llama/llama-4-maverick
+COPA,Mistral Large,English,accuracy,0.98,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,English,accuracy,0.986,mistralai/mistral-medium-3.1
+COPA,Mistral Small,English,accuracy,0.954,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,English,accuracy,0.952,openai/gpt-3.5-turbo
+COPA,GPT-4o,English,accuracy,0.988,openai/gpt-4o
+COPA,GPT-5,English,accuracy,0.996,openai/gpt-5
+COPA,GPT-5.4,English,accuracy,0.99,openai/gpt-5.4
+COPA,GPT-5.4 Pro,English,accuracy,1,openai/gpt-5.4-pro
+COPA,Qwen 3,English,accuracy,0.972,qwen/qwen3-32b
+COPA,Claude Opus 5.5,English,accuracy,1,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,English,accuracy,0.998,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,English,accuracy,1,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,English,accuracy,1,google/gemini-4-neon
+COPA,GPT 6 Luna,English,accuracy,0.996,openai/gpt-6-luna
+COPA,GPT 6 Terra,English,accuracy,1,openai/gpt-6.1-terra
+COPA,Claude Opus 5.5,Macedonian,accuracy,0.996,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Macedonian,accuracy,0.996,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Macedonian,accuracy,0.996,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Macedonian,accuracy,0.996,google/gemini-4-neon
+COPA,GPT 6 Luna,Macedonian,accuracy,0.994,openai/gpt-6-luna
+COPA,GPT 6 Terra,Macedonian,accuracy,0.996,openai/gpt-6.1-terra
+COPA,Claude Haiku 4.5,Macedonian,accuracy,0.924,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,Macedonian,accuracy,0.99,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,Macedonian,accuracy,0.992,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,Macedonian,accuracy,0.916,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,Macedonian,accuracy,0.968,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,Macedonian,accuracy,0.986,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,Macedonian,accuracy,0.984,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,Macedonian,accuracy,0.998,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,Macedonian,accuracy,0.908,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,Macedonian,accuracy,0.968,google/gemma-4-31b-it
+COPA,Gemma 3,Macedonian,accuracy,0.904,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,Macedonian,accuracy,0.804,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,Macedonian,accuracy,0.894,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,Macedonian,accuracy,0.922,meta-llama/llama-4-maverick
+COPA,Mistral Large,Macedonian,accuracy,0.916,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,Macedonian,accuracy,0.9,mistralai/mistral-medium-3.1
+COPA,Mistral Small,Macedonian,accuracy,0.822,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,Macedonian,accuracy,0.776,openai/gpt-3.5-turbo
+COPA,GPT-4o,Macedonian,accuracy,0.968,openai/gpt-4o
+COPA,GPT-5,Macedonian,accuracy,0.986,openai/gpt-5
+COPA,GPT-5.4,Macedonian,accuracy,0.978,openai/gpt-5.4
+COPA,GPT-5.4 Pro,Macedonian,accuracy,0.994,openai/gpt-5.4-pro
+COPA,Qwen 3,Macedonian,accuracy,0.862,qwen/qwen3-32b
+COPA,Claude Haiku 4.5,Prlekija Dialect,accuracy,0.864,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,Prlekija Dialect,accuracy,0.974,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,Prlekija Dialect,accuracy,0.956,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,Prlekija Dialect,accuracy,0.824,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,Prlekija Dialect,accuracy,0.882,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,Prlekija Dialect,accuracy,0.97,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,Prlekija Dialect,accuracy,0.9,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,Prlekija Dialect,accuracy,0.986,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,Prlekija Dialect,accuracy,0.714,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,Prlekija Dialect,accuracy,0.842,google/gemma-4-31b-it
+COPA,Gemma 3,Prlekija Dialect,accuracy,0.72,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,Prlekija Dialect,accuracy,0.81,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,Prlekija Dialect,accuracy,0.724,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,Prlekija Dialect,accuracy,0.744,meta-llama/llama-4-maverick
+COPA,Mistral Large,Prlekija Dialect,accuracy,0.744,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,Prlekija Dialect,accuracy,0.766,mistralai/mistral-medium-3.1
+COPA,Mistral Small,Prlekija Dialect,accuracy,0.642,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,Prlekija Dialect,accuracy,0.69,openai/gpt-3.5-turbo
+COPA,GPT-4o,Prlekija Dialect,accuracy,0.88,openai/gpt-4o
+COPA,GPT-5,Prlekija Dialect,accuracy,0.972,openai/gpt-5
+COPA,GPT-5.4,Prlekija Dialect,accuracy,0.908,openai/gpt-5.4
+COPA,GPT-5.4 Pro,Prlekija Dialect,accuracy,0.99,openai/gpt-5.4-pro
 COPA,Qwen 3,Prlekija Dialect,accuracy,0.846,qwen/qwen3-32b
-COPA,Qwen 3,Serbian,accuracy,0.89,qwen/qwen3-32b
+COPA,Claude Opus 5.5,Prlekija Dialect,accuracy,0.988,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Prlekija Dialect,accuracy,0.98,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Prlekija Dialect,accuracy,0.998,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Prlekija Dialect,accuracy,0.998,google/gemini-4-neon
+COPA,GPT 6 Luna,Prlekija Dialect,accuracy,0.96,openai/gpt-6-luna
+COPA,GPT 6 Terra,Prlekija Dialect,accuracy,0.996,openai/gpt-6.1-terra
+COPA,Claude Haiku 4.5,Šatrovački Dialect,accuracy,0.528,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,Šatrovački Dialect,accuracy,0.89,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,Šatrovački Dialect,accuracy,0.756,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,Šatrovački Dialect,accuracy,0.546,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,Šatrovački Dialect,accuracy,0.604,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,Šatrovački Dialect,accuracy,0.902,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,Šatrovački Dialect,accuracy,0.606,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,Šatrovački Dialect,accuracy,0.988,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,Šatrovački Dialect,accuracy,0.566,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,Šatrovački Dialect,accuracy,0.516,google/gemma-4-31b-it
+COPA,Gemma 3,Šatrovački Dialect,accuracy,0.528,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,Šatrovački Dialect,accuracy,0.55,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,Šatrovački Dialect,accuracy,0.538,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,Šatrovački Dialect,accuracy,0.538,meta-llama/llama-4-maverick
+COPA,Mistral Large,Šatrovački Dialect,accuracy,0.526,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,Šatrovački Dialect,accuracy,0.58,mistralai/mistral-medium-3.1
+COPA,Mistral Small,Šatrovački Dialect,accuracy,0.532,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,Šatrovački Dialect,accuracy,0.498,openai/gpt-3.5-turbo
+COPA,GPT-4o,Šatrovački Dialect,accuracy,0.59,openai/gpt-4o
+COPA,GPT-5,Šatrovački Dialect,accuracy,0.89,openai/gpt-5
+COPA,GPT-5.4,Šatrovački Dialect,accuracy,0.584,openai/gpt-5.4
+COPA,GPT-5.4 Pro,Šatrovački Dialect,accuracy,0.984,openai/gpt-5.4-pro
 COPA,Qwen 3,Šatrovački Dialect,accuracy,0.546,qwen/qwen3-32b
+COPA,Claude Opus 5.5,Šatrovački Dialect,accuracy,0.968,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Šatrovački Dialect,accuracy,0.812,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Šatrovački Dialect,accuracy,0.998,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Šatrovački Dialect,accuracy,1,google/gemini-4-neon
+COPA,GPT 6 Luna,Šatrovački Dialect,accuracy,0.866,openai/gpt-6-luna
+COPA,GPT 6 Terra,Šatrovački Dialect,accuracy,0.986,openai/gpt-6.1-terra
+COPA,Claude Haiku 4.5,Serbian,accuracy,0.956,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,Serbian,accuracy,0.998,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,Serbian,accuracy,0.994,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,Serbian,accuracy,0.928,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,Serbian,accuracy,0.972,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,Serbian,accuracy,0.994,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,Serbian,accuracy,0.982,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,Serbian,accuracy,0.996,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,Serbian,accuracy,0.918,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,Serbian,accuracy,0.982,google/gemma-4-31b-it
+COPA,Gemma 3,Serbian,accuracy,0.9,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,Serbian,accuracy,0.876,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,Serbian,accuracy,0.922,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,Serbian,accuracy,0.936,meta-llama/llama-4-maverick
+COPA,Mistral Large,Serbian,accuracy,0.936,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,Serbian,accuracy,0.932,mistralai/mistral-medium-3.1
+COPA,Mistral Small,Serbian,accuracy,0.864,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,Serbian,accuracy,0.808,openai/gpt-3.5-turbo
+COPA,GPT-4o,Serbian,accuracy,0.972,openai/gpt-4o
+COPA,GPT-5,Serbian,accuracy,0.992,openai/gpt-5
+COPA,GPT-5.4,Serbian,accuracy,0.984,openai/gpt-5.4
+COPA,GPT-5.4 Pro,Serbian,accuracy,0.996,openai/gpt-5.4-pro
+COPA,Qwen 3,Serbian,accuracy,0.89,qwen/qwen3-32b
+COPA,Claude Opus 5.5,Serbian,accuracy,0.998,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Serbian,accuracy,0.994,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Serbian,accuracy,0.998,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Serbian,accuracy,1,google/gemini-4-neon
+COPA,GPT 6 Luna,Serbian,accuracy,0.992,openai/gpt-6-luna
+COPA,GPT 6 Terra,Serbian,accuracy,0.998,openai/gpt-6.1-terra
+COPA,Claude Haiku 4.5,Slovenian,accuracy,0.926,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,Slovenian,accuracy,0.998,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,Slovenian,accuracy,0.986,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,Slovenian,accuracy,0.918,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,Slovenian,accuracy,0.974,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,Slovenian,accuracy,0.986,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,Slovenian,accuracy,0.984,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,Slovenian,accuracy,0.996,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,Slovenian,accuracy,0.872,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,Slovenian,accuracy,0.942,google/gemma-4-31b-it
+COPA,Gemma 3,Slovenian,accuracy,0.862,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,Slovenian,accuracy,0.908,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,Slovenian,accuracy,0.87,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,Slovenian,accuracy,0.9,meta-llama/llama-4-maverick
+COPA,Mistral Large,Slovenian,accuracy,0.882,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,Slovenian,accuracy,0.9,mistralai/mistral-medium-3.1
+COPA,Mistral Small,Slovenian,accuracy,0.78,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,Slovenian,accuracy,0.842,openai/gpt-3.5-turbo
+COPA,GPT-4o,Slovenian,accuracy,0.97,openai/gpt-4o
+COPA,GPT-5,Slovenian,accuracy,0.998,openai/gpt-5
+COPA,GPT-5.4,Slovenian,accuracy,0.98,openai/gpt-5.4
+COPA,GPT-5.4 Pro,Slovenian,accuracy,0.998,openai/gpt-5.4-pro
+COPA,Qwen 3,Slovenian,accuracy,0.826,qwen/qwen3-32b
+COPA,Claude Opus 5.5,Slovenian,accuracy,1,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Slovenian,accuracy,0.994,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Slovenian,accuracy,1,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Slovenian,accuracy,1,google/gemini-4-neon
+COPA,GPT 6 Luna,Slovenian,accuracy,0.994,openai/gpt-6-luna
+COPA,GPT 6 Terra,Slovenian,accuracy,0.998,openai/gpt-6.1-terra
+COPA,Claude Haiku 4.5,Torlak Dialect,accuracy,0.862,anthropic/claude-haiku-4.5
+COPA,Claude Opus 4.6,Torlak Dialect,accuracy,0.994,anthropic/claude-opus-4.6
+COPA,Claude Sonnet 4.6,Torlak Dialect,accuracy,0.984,anthropic/claude-sonnet-4.6
+COPA,DeepSeek-R1-0528,Torlak Dialect,accuracy,0.844,deepseek/deepseek-r1-0528
+COPA,Gemini 2.5 Flash,Torlak Dialect,accuracy,0.944,google/gemini-2.5-flash
+COPA,Gemini 2.5 Pro,Torlak Dialect,accuracy,0.98,google/gemini-2.5-pro
+COPA,Gemini 3.1 Flash Lite,Torlak Dialect,accuracy,0.936,google/gemini-3.1-flash-lite-preview
+COPA,Gemini 3.1 Pro Preview,Torlak Dialect,accuracy,0.998,google/gemini-3.1-pro-preview
+COPA,Gemma 4 26B,Torlak Dialect,accuracy,0.796,google/gemma-4-26b-a4b-it
+COPA,Gemma 4 31B,Torlak Dialect,accuracy,0.924,google/gemma-4-31b-it
+COPA,Gemma 3,Torlak Dialect,accuracy,0.82,google/gemma3:27b
+COPA,GaMS-27B-Instruct-i1,Torlak Dialect,accuracy,0.756,cjvt/GaMS-27B-Instruct-i1
+COPA,LLaMA 3.3,Torlak Dialect,accuracy,0.798,meta-llama/llama-3.3-70b-instruct
+COPA,LLaMA 4 Maverick,Torlak Dialect,accuracy,0.822,meta-llama/llama-4-maverick
+COPA,Mistral Large,Torlak Dialect,accuracy,0.838,mistralai/mistral-large-2512
+COPA,Mistral Medium 3.1,Torlak Dialect,accuracy,0.824,mistralai/mistral-medium-3.1
+COPA,Mistral Small,Torlak Dialect,accuracy,0.724,mistralai/mistral-small-2603
+COPA,GPT-3.5-Turbo,Torlak Dialect,accuracy,0.734,openai/gpt-3.5-turbo
+COPA,GPT-4o,Torlak Dialect,accuracy,0.932,openai/gpt-4o
+COPA,GPT-5,Torlak Dialect,accuracy,0.984,openai/gpt-5
+COPA,GPT-5.4,Torlak Dialect,accuracy,0.946,openai/gpt-5.4
+COPA,GPT-5.4 Pro,Torlak Dialect,accuracy,0.992,openai/gpt-5.4-pro
 COPA,Qwen 3,Torlak Dialect,accuracy,0.782,qwen/qwen3-32b
-Genre,X-GENRE classifier,Slovenian,macro_f1,0.9356251592,X-GENRE classifier
-Genre,X-GENRE classifier,Slovenian,micro_f1,0.9375,X-GENRE classifier
+COPA,Claude Opus 5.5,Torlak Dialect,accuracy,0.994,anthropic/claude-opus-5.5
+COPA,Claude Sonnet 5.5,Torlak Dialect,accuracy,0.988,anthropic/claude-sonnet-5.5
+COPA,Gemini 4 Hydrogen,Torlak Dialect,accuracy,0.992,google/gemini-4-hydrogen
+COPA,Gemini 4 Neon,Torlak Dialect,accuracy,0.996,google/gemini-4-neon
+COPA,GPT 6 Luna,Torlak Dialect,accuracy,0.97,openai/gpt-6-luna
+COPA,GPT 6 Terra,Torlak Dialect,accuracy,0.992,openai/gpt-6.1-terra
 Genre,X-GENRE classifier,Croatian,macro_f1,0.8942017635,X-GENRE classifier
 Genre,X-GENRE classifier,Croatian,micro_f1,0.9,X-GENRE classifier
-Genre,X-GENRE classifier,Macedonian,macro_f1,0.9111183756,X-GENRE classifier
-Genre,X-GENRE classifier,Macedonian,micro_f1,0.9125,X-GENRE classifier
-Genre,X-GENRE classifier,English,macro_f1,0.7519196907,X-GENRE classifier
-Genre,X-GENRE classifier,English,micro_f1,0.7100591716,X-GENRE classifier
-Genre,Mistral Medium 3.1,Slovenian,macro_f1,0.751346917,Mistral Medium 3.1
-Genre,Mistral Medium 3.1,Slovenian,micro_f1,0.775,Mistral Medium 3.1
 Genre,Mistral Medium 3.1,Croatian,macro_f1,0.7091758021,Mistral Medium 3.1
 Genre,Mistral Medium 3.1,Croatian,micro_f1,0.7375,Mistral Medium 3.1
-Genre,Mistral Medium 3.1,Macedonian,macro_f1,0.7406091812,Mistral Medium 3.1
-Genre,Mistral Medium 3.1,Macedonian,micro_f1,0.7625,Mistral Medium 3.1
-Genre,Mistral Medium 3.1,English,macro_f1,0.7244178495,Mistral Medium 3.1
-Genre,Mistral Medium 3.1,English,micro_f1,0.7790697674,Mistral Medium 3.1
-Genre,Gemini 2.5 Flash,Slovenian,macro_f1,0.7184625761,Gemini 2.5 Flash
-Genre,Gemini 2.5 Flash,Slovenian,micro_f1,0.725,Gemini 2.5 Flash
 Genre,Gemini 2.5 Flash,Croatian,macro_f1,0.7744275126,Gemini 2.5 Flash
 Genre,Gemini 2.5 Flash,Croatian,micro_f1,0.7875,Gemini 2.5 Flash
-Genre,Gemini 2.5 Flash,Macedonian,macro_f1,0.6720828688,Gemini 2.5 Flash
-Genre,Gemini 2.5 Flash,Macedonian,micro_f1,0.675,Gemini 2.5 Flash
-Genre,Gemini 2.5 Flash,English,macro_f1,0.7924552606,Gemini 2.5 Flash
-Genre,Gemini 2.5 Flash,English,micro_f1,0.8100775194,Gemini 2.5 Flash
-Genre,GPT-5-Nano,Slovenian,macro_f1,0.7169565671,GPT-5-nano
-Genre,GPT-5-Nano,Slovenian,micro_f1,0.7125,GPT-5-nano
 Genre,GPT-5-Nano,Croatian,macro_f1,0.6787414729,GPT-5-nano
 Genre,GPT-5-Nano,Croatian,micro_f1,0.6625,GPT-5-nano
-Genre,GPT-5-Nano,Macedonian,macro_f1,0.6990301274,GPT-5-nano
-Genre,GPT-5-Nano,Macedonian,micro_f1,0.6875,GPT-5-nano
-Genre,GPT-5-Nano,English,macro_f1,0.693840202,GPT-5-nano
-Genre,GPT-5-Nano,English,micro_f1,0.7286821705,GPT-5-nano
-Genre,GPT-4o,Slovenian,macro_f1,0.7951393223,GPT-4o
-Genre,GPT-4o,Slovenian,micro_f1,0.8,GPT-4o
 Genre,GPT-4o,Croatian,macro_f1,0.7693341019,GPT-4o
 Genre,GPT-4o,Croatian,micro_f1,0.775,GPT-4o
-Genre,GPT-4o,Macedonian,macro_f1,0.7836239847,GPT-4o
-Genre,GPT-4o,Macedonian,micro_f1,0.8,GPT-4o
-Genre,GPT-4o,English,macro_f1,0.7466280848,GPT-4o
-Genre,GPT-4o,English,micro_f1,0.7674418605,GPT-4o
-Genre,GPT-5-mini,Slovenian,macro_f1,0.7850344304,GPT-5-mini
-Genre,GPT-5-mini,Slovenian,micro_f1,0.7875,GPT-5-mini
 Genre,GPT-5-mini,Croatian,macro_f1,0.7015012046,GPT-5-mini
 Genre,GPT-5-mini,Croatian,micro_f1,0.7125,GPT-5-mini
-Genre,GPT-5-mini,Macedonian,macro_f1,0.6295461771,GPT-5-mini
-Genre,GPT-5-mini,Macedonian,micro_f1,0.6125,GPT-5-mini
-Genre,GPT-5-mini,English,macro_f1,0.8802584512,GPT-5-mini
-Genre,GPT-5-mini,English,micro_f1,0.8333333333,GPT-5-mini
-Genre,GPT-3.5-Turbo,Slovenian,macro_f1,0.5946141902,GPT-3.5-Turbo
-Genre,GPT-3.5-Turbo,Slovenian,micro_f1,0.5875,GPT-3.5-Turbo
 Genre,GPT-3.5-Turbo,Croatian,macro_f1,0.591614493,GPT-3.5-Turbo
 Genre,GPT-3.5-Turbo,Croatian,micro_f1,0.5875,GPT-3.5-Turbo
-Genre,GPT-3.5-Turbo,Macedonian,macro_f1,0.5089927379,GPT-3.5-Turbo
-Genre,GPT-3.5-Turbo,Macedonian,micro_f1,0.5095541401,GPT-3.5-Turbo
-Genre,GPT-3.5-Turbo,English,macro_f1,0.5663004689,GPT-3.5-Turbo
-Genre,GPT-3.5-Turbo,English,micro_f1,0.6485436893,GPT-3.5-Turbo
-Genre,GPT-4o-mini,Slovenian,macro_f1,0.7041569542,GPT-4o-mini
-Genre,GPT-4o-mini,Slovenian,micro_f1,0.7,GPT-4o-mini
 Genre,GPT-4o-mini,Croatian,macro_f1,0.6865160655,GPT-4o-mini
 Genre,GPT-4o-mini,Croatian,micro_f1,0.675,GPT-4o-mini
-Genre,GPT-4o-mini,Macedonian,macro_f1,0.6732129765,GPT-4o-mini
-Genre,GPT-4o-mini,Macedonian,micro_f1,0.6625,GPT-4o-mini
-Genre,GPT-4o-mini,English,macro_f1,0.6954659623,GPT-4o-mini
-Genre,GPT-4o-mini,English,micro_f1,0.6860465116,GPT-4o-mini
-Genre,DeepSeek-R1-Distill-Qwen-14B,Slovenian,macro_f1,0.3547914504,DeekSeek-R1
-Genre,DeepSeek-R1-Distill-Qwen-14B,Slovenian,micro_f1,0.3966942149,DeekSeek-R1
 Genre,DeepSeek-R1-Distill-Qwen-14B,Croatian,macro_f1,0.370612151,DeekSeek-R1
 Genre,DeepSeek-R1-Distill-Qwen-14B,Croatian,micro_f1,0.3966942149,DeekSeek-R1
-Genre,DeepSeek-R1-Distill-Qwen-14B,Macedonian,macro_f1,0.4176420071,DeekSeek-R1
-Genre,DeepSeek-R1-Distill-Qwen-14B,Macedonian,micro_f1,0.427480916,DeekSeek-R1
-Genre,DeepSeek-R1-Distill-Qwen-14B,English,macro_f1,0.4121807182,DeekSeek-R1
-Genre,DeepSeek-R1-Distill-Qwen-14B,English,micro_f1,0.5069767442,DeekSeek-R1
-Genre,LLaMA 3.3,Slovenian,macro_f1,0.7581485295,Llama 3.3
-Genre,LLaMA 3.3,Slovenian,micro_f1,0.7625,Llama 3.3
 Genre,LLaMA 3.3,Croatian,macro_f1,0.7653672224,Llama 3.3
 Genre,LLaMA 3.3,Croatian,micro_f1,0.775,Llama 3.3
-Genre,LLaMA 3.3,Macedonian,macro_f1,0.7586345436,Llama 3.3
-Genre,LLaMA 3.3,Macedonian,micro_f1,0.7625,Llama 3.3
-Genre,LLaMA 3.3,English,macro_f1,0.7035087719,Llama 3.3
-Genre,LLaMA 3.3,English,micro_f1,0.7674418605,Llama 3.3
-Genre,Gemma 3,Slovenian,macro_f1,0.6729628357,Gemma 3
-Genre,Gemma 3,Slovenian,micro_f1,0.6625,Gemma 3
 Genre,Gemma 3,Croatian,macro_f1,0.7152421141,Gemma 3
 Genre,Gemma 3,Croatian,micro_f1,0.7375,Gemma 3
-Genre,Gemma 3,Macedonian,macro_f1,0.6911863309,Gemma 3
-Genre,Gemma 3,Macedonian,micro_f1,0.7,Gemma 3
-Genre,Gemma 3,English,macro_f1,0.712072089,Gemma 3
-Genre,Gemma 3,English,micro_f1,0.7403100775,Gemma 3
-Genre,Qwen 3,Slovenian,macro_f1,0.6646998213,Qwen3
-Genre,Qwen 3,Slovenian,micro_f1,0.6582278481,Qwen3
 Genre,Qwen 3,Croatian,macro_f1,0.6453351246,Qwen3
 Genre,Qwen 3,Croatian,micro_f1,0.6624203822,Qwen3
-Genre,Qwen 3,Macedonian,macro_f1,0.6081278806,Qwen3
-Genre,Qwen 3,Macedonian,micro_f1,0.6025641026,Qwen3
-Genre,Qwen 3,English,macro_f1,0.6036905877,Qwen3
-Genre,Qwen 3,English,micro_f1,0.6614481409,Qwen3
-Genre,Gemini 2.5 Pro,Slovenian,macro_f1,0.7472632626,Gemini 2.5 Pro
-Genre,Gemini 2.5 Pro,Slovenian,micro_f1,0.7547169811,Gemini 2.5 Pro
 Genre,Gemini 2.5 Pro,Croatian,macro_f1,0.6976587828,Gemini 2.5 Pro
 Genre,Gemini 2.5 Pro,Croatian,micro_f1,0.7169811321,Gemini 2.5 Pro
-Genre,Gemini 2.5 Pro,Macedonian,macro_f1,0.7001271561,Gemini 2.5 Pro
-Genre,Gemini 2.5 Pro,Macedonian,micro_f1,0.7,Gemini 2.5 Pro
-Genre,Gemini 2.5 Pro,English,macro_f1,0.7870319905,Gemini 2.5 Pro
-Genre,Gemini 2.5 Pro,English,micro_f1,0.8139534884,Gemini 2.5 Pro
-Genre,GPT-5,Slovenian,macro_f1,0.7852625445,GPT-5
-Genre,GPT-5,Slovenian,micro_f1,0.7875,GPT-5
 Genre,GPT-5,Croatian,macro_f1,0.7223512228,GPT-5
 Genre,GPT-5,Croatian,micro_f1,0.7375,GPT-5
-Genre,GPT-5,Macedonian,macro_f1,0.7166651003,GPT-5
-Genre,GPT-5,Macedonian,micro_f1,0.7125,GPT-5
-Genre,GPT-5,English,macro_f1,0.8353798982,GPT-5
-Genre,GPT-5,English,micro_f1,0.8333333333,GPT-5
-Genre,GaMS-27B-Instruct,Slovenian,macro_f1,0.3803979098,GaMS-Instruct 27B
-Genre,GaMS-27B-Instruct,Slovenian,micro_f1,0.4129032258,GaMS-Instruct 27B
 Genre,GaMS-27B-Instruct,Croatian,macro_f1,0.477594418,GaMS-Instruct 27B
 Genre,GaMS-27B-Instruct,Croatian,micro_f1,0.5256410256,GaMS-Instruct 27B
-Genre,GaMS-27B-Instruct,Macedonian,macro_f1,0.3470829244,GaMS-Instruct 27B
-Genre,GaMS-27B-Instruct,Macedonian,micro_f1,0.3708609272,GaMS-Instruct 27B
+Genre,X-GENRE classifier,English,macro_f1,0.7519196907,X-GENRE classifier
+Genre,X-GENRE classifier,English,micro_f1,0.7100591716,X-GENRE classifier
+Genre,Mistral Medium 3.1,English,macro_f1,0.7244178495,Mistral Medium 3.1
+Genre,Mistral Medium 3.1,English,micro_f1,0.7790697674,Mistral Medium 3.1
+Genre,Gemini 2.5 Flash,English,macro_f1,0.7924552606,Gemini 2.5 Flash
+Genre,Gemini 2.5 Flash,English,micro_f1,0.8100775194,Gemini 2.5 Flash
+Genre,GPT-5-Nano,English,macro_f1,0.693840202,GPT-5-nano
+Genre,GPT-5-Nano,English,micro_f1,0.7286821705,GPT-5-nano
+Genre,GPT-4o,English,macro_f1,0.7466280848,GPT-4o
+Genre,GPT-4o,English,micro_f1,0.7674418605,GPT-4o
+Genre,GPT-5-mini,English,macro_f1,0.8802584512,GPT-5-mini
+Genre,GPT-5-mini,English,micro_f1,0.8333333333,GPT-5-mini
+Genre,GPT-3.5-Turbo,English,macro_f1,0.5663004689,GPT-3.5-Turbo
+Genre,GPT-3.5-Turbo,English,micro_f1,0.6485436893,GPT-3.5-Turbo
+Genre,GPT-4o-mini,English,macro_f1,0.6954659623,GPT-4o-mini
+Genre,GPT-4o-mini,English,micro_f1,0.6860465116,GPT-4o-mini
+Genre,DeepSeek-R1-Distill-Qwen-14B,English,macro_f1,0.4121807182,DeekSeek-R1
+Genre,DeepSeek-R1-Distill-Qwen-14B,English,micro_f1,0.5069767442,DeekSeek-R1
+Genre,LLaMA 3.3,English,macro_f1,0.7035087719,Llama 3.3
+Genre,LLaMA 3.3,English,micro_f1,0.7674418605,Llama 3.3
+Genre,Gemma 3,English,macro_f1,0.712072089,Gemma 3
+Genre,Gemma 3,English,micro_f1,0.7403100775,Gemma 3
+Genre,Qwen 3,English,macro_f1,0.6036905877,Qwen3
+Genre,Qwen 3,English,micro_f1,0.6614481409,Qwen3
+Genre,Gemini 2.5 Pro,English,macro_f1,0.7870319905,Gemini 2.5 Pro
+Genre,Gemini 2.5 Pro,English,micro_f1,0.8139534884,Gemini 2.5 Pro
+Genre,GPT-5,English,macro_f1,0.8353798982,GPT-5
+Genre,GPT-5,English,micro_f1,0.8333333333,GPT-5
 Genre,GaMS-27B-Instruct,English,macro_f1,0.3590420263,GaMS-Instruct 27B
 Genre,GaMS-27B-Instruct,English,micro_f1,0.3992015968,GaMS-Instruct 27B
-News Topic,GPT-5,Slovenian,macro_f1,0.736,gpt-5
-News Topic,GPT-5,Slovenian,micro_f1,0.727,gpt-5
+Genre,X-GENRE classifier,Macedonian,macro_f1,0.9111183756,X-GENRE classifier
+Genre,X-GENRE classifier,Macedonian,micro_f1,0.9125,X-GENRE classifier
+Genre,Mistral Medium 3.1,Macedonian,macro_f1,0.7406091812,Mistral Medium 3.1
+Genre,Mistral Medium 3.1,Macedonian,micro_f1,0.7625,Mistral Medium 3.1
+Genre,Gemini 2.5 Flash,Macedonian,macro_f1,0.6720828688,Gemini 2.5 Flash
+Genre,Gemini 2.5 Flash,Macedonian,micro_f1,0.675,Gemini 2.5 Flash
+Genre,GPT-5-Nano,Macedonian,macro_f1,0.6990301274,GPT-5-nano
+Genre,GPT-5-Nano,Macedonian,micro_f1,0.6875,GPT-5-nano
+Genre,GPT-4o,Macedonian,macro_f1,0.7836239847,GPT-4o
+Genre,GPT-4o,Macedonian,micro_f1,0.8,GPT-4o
+Genre,GPT-5-mini,Macedonian,macro_f1,0.6295461771,GPT-5-mini
+Genre,GPT-5-mini,Macedonian,micro_f1,0.6125,GPT-5-mini
+Genre,GPT-3.5-Turbo,Macedonian,macro_f1,0.5089927379,GPT-3.5-Turbo
+Genre,GPT-3.5-Turbo,Macedonian,micro_f1,0.5095541401,GPT-3.5-Turbo
+Genre,GPT-4o-mini,Macedonian,macro_f1,0.6732129765,GPT-4o-mini
+Genre,GPT-4o-mini,Macedonian,micro_f1,0.6625,GPT-4o-mini
+Genre,DeepSeek-R1-Distill-Qwen-14B,Macedonian,macro_f1,0.4176420071,DeekSeek-R1
+Genre,DeepSeek-R1-Distill-Qwen-14B,Macedonian,micro_f1,0.427480916,DeekSeek-R1
+Genre,LLaMA 3.3,Macedonian,macro_f1,0.7586345436,Llama 3.3
+Genre,LLaMA 3.3,Macedonian,micro_f1,0.7625,Llama 3.3
+Genre,Gemma 3,Macedonian,macro_f1,0.6911863309,Gemma 3
+Genre,Gemma 3,Macedonian,micro_f1,0.7,Gemma 3
+Genre,Qwen 3,Macedonian,macro_f1,0.6081278806,Qwen3
+Genre,Qwen 3,Macedonian,micro_f1,0.6025641026,Qwen3
+Genre,Gemini 2.5 Pro,Macedonian,macro_f1,0.7001271561,Gemini 2.5 Pro
+Genre,Gemini 2.5 Pro,Macedonian,micro_f1,0.7,Gemini 2.5 Pro
+Genre,GPT-5,Macedonian,macro_f1,0.7166651003,GPT-5
+Genre,GPT-5,Macedonian,micro_f1,0.7125,GPT-5
+Genre,GaMS-27B-Instruct,Macedonian,macro_f1,0.3470829244,GaMS-Instruct 27B
+Genre,GaMS-27B-Instruct,Macedonian,micro_f1,0.3708609272,GaMS-Instruct 27B
+Genre,X-GENRE classifier,Slovenian,macro_f1,0.9356251592,X-GENRE classifier
+Genre,X-GENRE classifier,Slovenian,micro_f1,0.9375,X-GENRE classifier
+Genre,Mistral Medium 3.1,Slovenian,macro_f1,0.751346917,Mistral Medium 3.1
+Genre,Mistral Medium 3.1,Slovenian,micro_f1,0.775,Mistral Medium 3.1
+Genre,Gemini 2.5 Flash,Slovenian,macro_f1,0.7184625761,Gemini 2.5 Flash
+Genre,Gemini 2.5 Flash,Slovenian,micro_f1,0.725,Gemini 2.5 Flash
+Genre,GPT-5-Nano,Slovenian,macro_f1,0.7169565671,GPT-5-nano
+Genre,GPT-5-Nano,Slovenian,micro_f1,0.7125,GPT-5-nano
+Genre,GPT-4o,Slovenian,macro_f1,0.7951393223,GPT-4o
+Genre,GPT-4o,Slovenian,micro_f1,0.8,GPT-4o
+Genre,GPT-5-mini,Slovenian,macro_f1,0.7850344304,GPT-5-mini
+Genre,GPT-5-mini,Slovenian,micro_f1,0.7875,GPT-5-mini
+Genre,GPT-3.5-Turbo,Slovenian,macro_f1,0.5946141902,GPT-3.5-Turbo
+Genre,GPT-3.5-Turbo,Slovenian,micro_f1,0.5875,GPT-3.5-Turbo
+Genre,GPT-4o-mini,Slovenian,macro_f1,0.7041569542,GPT-4o-mini
+Genre,GPT-4o-mini,Slovenian,micro_f1,0.7,GPT-4o-mini
+Genre,DeepSeek-R1-Distill-Qwen-14B,Slovenian,macro_f1,0.3547914504,DeekSeek-R1
+Genre,DeepSeek-R1-Distill-Qwen-14B,Slovenian,micro_f1,0.3966942149,DeekSeek-R1
+Genre,LLaMA 3.3,Slovenian,macro_f1,0.7581485295,Llama 3.3
+Genre,LLaMA 3.3,Slovenian,micro_f1,0.7625,Llama 3.3
+Genre,Gemma 3,Slovenian,macro_f1,0.6729628357,Gemma 3
+Genre,Gemma 3,Slovenian,micro_f1,0.6625,Gemma 3
+Genre,Qwen 3,Slovenian,macro_f1,0.6646998213,Qwen3
+Genre,Qwen 3,Slovenian,micro_f1,0.6582278481,Qwen3
+Genre,Gemini 2.5 Pro,Slovenian,macro_f1,0.7472632626,Gemini 2.5 Pro
+Genre,Gemini 2.5 Pro,Slovenian,micro_f1,0.7547169811,Gemini 2.5 Pro
+Genre,GPT-5,Slovenian,macro_f1,0.7852625445,GPT-5
+Genre,GPT-5,Slovenian,micro_f1,0.7875,GPT-5
+Genre,GaMS-27B-Instruct,Slovenian,macro_f1,0.3803979098,GaMS-Instruct 27B
+Genre,GaMS-27B-Instruct,Slovenian,micro_f1,0.4129032258,GaMS-Instruct 27B
 News Topic,GPT-5,Croatian,macro_f1,0.749,gpt-5
 News Topic,GPT-5,Croatian,micro_f1,0.746,gpt-5
-News Topic,Gemini 2.5 Flash,Slovenian,macro_f1,0.795,google/gemini-2.5-flash
-News Topic,Gemini 2.5 Flash,Slovenian,micro_f1,0.787,google/gemini-2.5-flash
 News Topic,Gemini 2.5 Flash,Croatian,macro_f1,0.747,google/gemini-2.5-flash
 News Topic,Gemini 2.5 Flash,Croatian,micro_f1,0.742,google/gemini-2.5-flash
-News Topic,GPT-4o,Slovenian,macro_f1,0.767,gpt-4o-2024-08-06
-News Topic,GPT-4o,Slovenian,micro_f1,0.766,gpt-4o-2024-08-06
 News Topic,GPT-4o,Croatian,macro_f1,0.741,gpt-4o-2024-08-06
 News Topic,GPT-4o,Croatian,micro_f1,0.735,gpt-4o-2024-08-06
-News Topic,IPTC XLM-R classifier,Slovenian,macro_f1,0.765,IPTC XLM-R classifier
-News Topic,IPTC XLM-R classifier,Slovenian,micro_f1,0.759,IPTC XLM-R classifier
 News Topic,IPTC XLM-R classifier,Croatian,macro_f1,0.734,IPTC XLM-R classifier
 News Topic,IPTC XLM-R classifier,Croatian,micro_f1,0.729,IPTC XLM-R classifier
-News Topic,GPT-4o-mini,Slovenian,macro_f1,0.73,gpt-4o-mini-2024-07-18
-News Topic,GPT-4o-mini,Slovenian,micro_f1,0.723,gpt-4o-mini-2024-07-18
 News Topic,GPT-4o-mini,Croatian,macro_f1,0.732,gpt-4o-mini-2024-07-18
 News Topic,GPT-4o-mini,Croatian,micro_f1,0.718,gpt-4o-mini-2024-07-18
-News Topic,GPT-5-mini,Slovenian,macro_f1,0.749,gpt-5-mini-2025-08-07
-News Topic,GPT-5-mini,Slovenian,micro_f1,0.741,gpt-5-mini-2025-08-07
 News Topic,GPT-5-mini,Croatian,macro_f1,0.711,gpt-5-mini-2025-08-07
 News Topic,GPT-5-mini,Croatian,micro_f1,0.704,gpt-5-mini-2025-08-07
-News Topic,Mistral Medium 3.1,Slovenian,macro_f1,0.761,mistralai/mistral-medium-3.1
-News Topic,Mistral Medium 3.1,Slovenian,micro_f1,0.762,mistralai/mistral-medium-3.1
 News Topic,Mistral Medium 3.1,Croatian,macro_f1,0.7,mistralai/mistral-medium-3.1
 News Topic,Mistral Medium 3.1,Croatian,micro_f1,0.701,mistralai/mistral-medium-3.1
-News Topic,Gemma 3,Slovenian,macro_f1,0.693,gemma3:27b
-News Topic,Gemma 3,Slovenian,micro_f1,0.683,gemma3:27b
 News Topic,Gemma 3,Croatian,macro_f1,0.695,gemma3:27b
 News Topic,Gemma 3,Croatian,micro_f1,0.692,gemma3:27b
-News Topic,Qwen 3,Slovenian,macro_f1,0.656,qwen3:32b
-News Topic,Qwen 3,Slovenian,micro_f1,0.663,qwen3:32b
 News Topic,Qwen 3,Croatian,macro_f1,0.677,qwen3:32b
 News Topic,Qwen 3,Croatian,micro_f1,0.674,qwen3:32b
-News Topic,GPT-5-Nano,Slovenian,macro_f1,0.73,gpt-5-nano-2025-08-07
-News Topic,GPT-5-Nano,Slovenian,micro_f1,0.713,gpt-5-nano-2025-08-07
 News Topic,GPT-5-Nano,Croatian,macro_f1,0.661,gpt-5-nano-2025-08-07
 News Topic,GPT-5-Nano,Croatian,micro_f1,0.653,gpt-5-nano-2025-08-07
-News Topic,LLaMA 3.3,Slovenian,macro_f1,0.614,llama3.3:latest
-News Topic,LLaMA 3.3,Slovenian,micro_f1,0.61,llama3.3:latest
 News Topic,LLaMA 3.3,Croatian,macro_f1,0.61,llama3.3:latest
 News Topic,LLaMA 3.3,Croatian,micro_f1,0.611,llama3.3:latest
-News Topic,GPT-3.5-Turbo,Slovenian,macro_f1,0.682,gpt-3.5-turbo-0125
-News Topic,GPT-3.5-Turbo,Slovenian,micro_f1,0.67,gpt-3.5-turbo-0125
 News Topic,GPT-3.5-Turbo,Croatian,macro_f1,0.587,gpt-3.5-turbo-0125
 News Topic,GPT-3.5-Turbo,Croatian,micro_f1,0.577,gpt-3.5-turbo-0125
-News Topic,LLaMA 4 Scout,Slovenian,macro_f1,0.625,llama4:scout
-News Topic,LLaMA 4 Scout,Slovenian,micro_f1,0.61,llama4:scout
 News Topic,LLaMA 4 Scout,Croatian,macro_f1,0.585,llama4:scout
 News Topic,LLaMA 4 Scout,Croatian,micro_f1,0.57,llama4:scout
-News Topic,DeepSeek-R1-Distill-Qwen-14B,Slovenian,macro_f1,0.385,deepseek-r1:14b
-News Topic,DeepSeek-R1-Distill-Qwen-14B,Slovenian,micro_f1,0.361,deepseek-r1:14b
 News Topic,DeepSeek-R1-Distill-Qwen-14B,Croatian,macro_f1,0.401,deepseek-r1:14b
 News Topic,DeepSeek-R1-Distill-Qwen-14B,Croatian,micro_f1,0.39,deepseek-r1:14b
-News Topic,GaMS-27B-Instruct,Slovenian,macro_f1,0.315,GaMS-27B
-News Topic,GaMS-27B-Instruct,Slovenian,micro_f1,0.312,GaMS-27B
 News Topic,GaMS-27B-Instruct,Croatian,macro_f1,0.276,GaMS-27B
 News Topic,GaMS-27B-Instruct,Croatian,micro_f1,0.265,GaMS-27B
-Parliamentary Speech Topic,ParlaCAP-classifier,Croatian,macro_f1,0.6856743459,ParlaCAP-classifier
-Parliamentary Speech Topic,ParlaCAP-classifier,Croatian,micro_f1,0.6766398159,ParlaCAP-classifier
-Parliamentary Speech Topic,ParlaCAP-classifier,English,macro_f1,0.7229632138,ParlaCAP-classifier
-Parliamentary Speech Topic,ParlaCAP-classifier,English,micro_f1,0.7237442922,ParlaCAP-classifier
-Parliamentary Speech Topic,ParlaCAP-classifier,Serbian,macro_f1,0.7068794735,ParlaCAP-classifier
-Parliamentary Speech Topic,ParlaCAP-classifier,Serbian,micro_f1,0.704805492,ParlaCAP-classifier
+News Topic,GPT-5,Slovenian,macro_f1,0.736,gpt-5
+News Topic,GPT-5,Slovenian,micro_f1,0.727,gpt-5
+News Topic,Gemini 2.5 Flash,Slovenian,macro_f1,0.795,google/gemini-2.5-flash
+News Topic,Gemini 2.5 Flash,Slovenian,micro_f1,0.787,google/gemini-2.5-flash
+News Topic,GPT-4o,Slovenian,macro_f1,0.767,gpt-4o-2024-08-06
+News Topic,GPT-4o,Slovenian,micro_f1,0.766,gpt-4o-2024-08-06
+News Topic,IPTC XLM-R classifier,Slovenian,macro_f1,0.765,IPTC XLM-R classifier
+News Topic,IPTC XLM-R classifier,Slovenian,micro_f1,0.759,IPTC XLM-R classifier
+News Topic,GPT-4o-mini,Slovenian,macro_f1,0.73,gpt-4o-mini-2024-07-18
+News Topic,GPT-4o-mini,Slovenian,micro_f1,0.723,gpt-4o-mini-2024-07-18
+News Topic,GPT-5-mini,Slovenian,macro_f1,0.749,gpt-5-mini-2025-08-07
+News Topic,GPT-5-mini,Slovenian,micro_f1,0.741,gpt-5-mini-2025-08-07
+News Topic,Mistral Medium 3.1,Slovenian,macro_f1,0.761,mistralai/mistral-medium-3.1
+News Topic,Mistral Medium 3.1,Slovenian,micro_f1,0.762,mistralai/mistral-medium-3.1
+News Topic,Gemma 3,Slovenian,macro_f1,0.693,gemma3:27b
+News Topic,Gemma 3,Slovenian,micro_f1,0.683,gemma3:27b
+News Topic,Qwen 3,Slovenian,macro_f1,0.656,qwen3:32b
+News Topic,Qwen 3,Slovenian,micro_f1,0.663,qwen3:32b
+News Topic,GPT-5-Nano,Slovenian,macro_f1,0.73,gpt-5-nano-2025-08-07
+News Topic,GPT-5-Nano,Slovenian,micro_f1,0.713,gpt-5-nano-2025-08-07
+News Topic,LLaMA 3.3,Slovenian,macro_f1,0.614,llama3.3:latest
+News Topic,LLaMA 3.3,Slovenian,micro_f1,0.61,llama3.3:latest
+News Topic,GPT-3.5-Turbo,Slovenian,macro_f1,0.682,gpt-3.5-turbo-0125
+News Topic,GPT-3.5-Turbo,Slovenian,micro_f1,0.67,gpt-3.5-turbo-0125
+News Topic,LLaMA 4 Scout,Slovenian,macro_f1,0.625,llama4:scout
+News Topic,LLaMA 4 Scout,Slovenian,micro_f1,0.61,llama4:scout
+News Topic,DeepSeek-R1-Distill-Qwen-14B,Slovenian,macro_f1,0.385,deepseek-r1:14b
+News Topic,DeepSeek-R1-Distill-Qwen-14B,Slovenian,micro_f1,0.361,deepseek-r1:14b
+News Topic,GaMS-27B-Instruct,Slovenian,macro_f1,0.315,GaMS-27B
+News Topic,GaMS-27B-Instruct,Slovenian,micro_f1,0.312,GaMS-27B
 Parliamentary Speech Topic,ParlaCAP-classifier,Bosnian,macro_f1,0.6460589751,ParlaCAP-classifier
 Parliamentary Speech Topic,ParlaCAP-classifier,Bosnian,micro_f1,0.645631068,ParlaCAP-classifier
-Parliamentary Speech Topic,Gemma 3,Croatian,macro_f1,0.5546842733,gemma3:27b
-Parliamentary Speech Topic,Gemma 3,Croatian,micro_f1,0.5506912442,gemma3:27b
-Parliamentary Speech Topic,Gemma 3,English,macro_f1,0.6199967092,gemma3:27b
-Parliamentary Speech Topic,Gemma 3,English,micro_f1,0.6198630137,gemma3:27b
-Parliamentary Speech Topic,Gemma 3,Serbian,macro_f1,0.5704465687,gemma3:27b
-Parliamentary Speech Topic,Gemma 3,Serbian,micro_f1,0.5655409273,gemma3:27b
 Parliamentary Speech Topic,Gemma 3,Bosnian,macro_f1,0.5103113923,gemma3:27b
 Parliamentary Speech Topic,Gemma 3,Bosnian,micro_f1,0.5,gemma3:27b
-Parliamentary Speech Topic,LLaMA 4 Scout,Croatian,macro_f1,0.4836522524,llama4:scout
-Parliamentary Speech Topic,LLaMA 4 Scout,Croatian,micro_f1,0.4844649022,llama4:scout
-Parliamentary Speech Topic,LLaMA 4 Scout,English,macro_f1,0.5131162288,llama4:scout
-Parliamentary Speech Topic,LLaMA 4 Scout,English,micro_f1,0.5251141553,llama4:scout
-Parliamentary Speech Topic,LLaMA 4 Scout,Serbian,macro_f1,0.4776614805,llama4:scout
-Parliamentary Speech Topic,LLaMA 4 Scout,Serbian,micro_f1,0.471395881,llama4:scout
 Parliamentary Speech Topic,LLaMA 4 Scout,Bosnian,macro_f1,0.3820055443,llama4:scout
 Parliamentary Speech Topic,LLaMA 4 Scout,Bosnian,micro_f1,0.3798543689,llama4:scout
-Parliamentary Speech Topic,LLaMA 3.3,Croatian,macro_f1,0.5546599188,llama3.3:latest
-Parliamentary Speech Topic,LLaMA 3.3,Croatian,micro_f1,0.5650172612,llama3.3:latest
-Parliamentary Speech Topic,LLaMA 3.3,English,macro_f1,0.631682614,llama3.3:latest
-Parliamentary Speech Topic,LLaMA 3.3,English,micro_f1,0.6404109589,llama3.3:latest
-Parliamentary Speech Topic,LLaMA 3.3,Serbian,macro_f1,0.6129052744,llama3.3:latest
-Parliamentary Speech Topic,LLaMA 3.3,Serbian,micro_f1,0.6086956522,llama3.3:latest
 Parliamentary Speech Topic,LLaMA 3.3,Bosnian,macro_f1,0.5256781706,llama3.3:latest
 Parliamentary Speech Topic,LLaMA 3.3,Bosnian,micro_f1,0.5230582524,llama3.3:latest
-Parliamentary Speech Topic,Qwen 3,Croatian,macro_f1,0.5975587848,qwen3:32b
-Parliamentary Speech Topic,Qwen 3,Croatian,micro_f1,0.581127733,qwen3:32b
-Parliamentary Speech Topic,Qwen 3,English,macro_f1,0.6466629855,qwen3:32b
-Parliamentary Speech Topic,Qwen 3,English,micro_f1,0.649543379,qwen3:32b
-Parliamentary Speech Topic,Qwen 3,Serbian,macro_f1,0.5692075045,qwen3:32b
-Parliamentary Speech Topic,Qwen 3,Serbian,micro_f1,0.5514874142,qwen3:32b
 Parliamentary Speech Topic,Qwen 3,Bosnian,macro_f1,0.4797014506,qwen3:32b
 Parliamentary Speech Topic,Qwen 3,Bosnian,micro_f1,0.4648058252,qwen3:32b
-Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Croatian,macro_f1,0.3114163981,deepseek-r1:14b
-Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Croatian,micro_f1,0.2842347526,deepseek-r1:14b
-Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,English,macro_f1,0.404498565,deepseek-r1:14b
-Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,English,micro_f1,0.3812785388,deepseek-r1:14b
-Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Serbian,macro_f1,0.3027400052,deepseek-r1:14b
-Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Serbian,micro_f1,0.2791762014,deepseek-r1:14b
 Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Bosnian,macro_f1,0.2661747665,deepseek-r1:14b
 Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Bosnian,micro_f1,0.2597087379,deepseek-r1:14b
-Parliamentary Speech Topic,GPT-4o,Croatian,macro_f1,0.6714281454,gpt-4o-2024-08-06
-Parliamentary Speech Topic,GPT-4o,Croatian,micro_f1,0.663981588,gpt-4o-2024-08-06
-Parliamentary Speech Topic,GPT-4o,English,macro_f1,0.744534743,gpt-4o-2024-08-06
-Parliamentary Speech Topic,GPT-4o,English,micro_f1,0.7442922374,gpt-4o-2024-08-06
-Parliamentary Speech Topic,GPT-4o,Serbian,macro_f1,0.6910109862,gpt-4o-2024-08-06
-Parliamentary Speech Topic,GPT-4o,Serbian,micro_f1,0.6887871854,gpt-4o-2024-08-06
 Parliamentary Speech Topic,GPT-4o,Bosnian,macro_f1,0.6291958538,gpt-4o-2024-08-06
 Parliamentary Speech Topic,GPT-4o,Bosnian,micro_f1,0.6298543689,gpt-4o-2024-08-06
-Parliamentary Speech Topic,GPT-4o-mini,Croatian,macro_f1,0.5895846598,gpt-4o-mini-2024-07-18
-Parliamentary Speech Topic,GPT-4o-mini,Croatian,micro_f1,0.5880322209,gpt-4o-mini-2024-07-18
-Parliamentary Speech Topic,GPT-4o-mini,English,macro_f1,0.6410095723,gpt-4o-mini-2024-07-18
-Parliamentary Speech Topic,GPT-4o-mini,English,micro_f1,0.6415525114,gpt-4o-mini-2024-07-18
-Parliamentary Speech Topic,GPT-4o-mini,Serbian,macro_f1,0.5925278158,gpt-4o-mini-2024-07-18
-Parliamentary Speech Topic,GPT-4o-mini,Serbian,micro_f1,0.5881006865,gpt-4o-mini-2024-07-18
 Parliamentary Speech Topic,GPT-4o-mini,Bosnian,macro_f1,0.5235427672,gpt-4o-mini-2024-07-18
 Parliamentary Speech Topic,GPT-4o-mini,Bosnian,micro_f1,0.5218446602,gpt-4o-mini-2024-07-18
-Parliamentary Speech Topic,GPT-5,Croatian,macro_f1,0.6910365387,gpt-5
-Parliamentary Speech Topic,GPT-5,Croatian,micro_f1,0.6869965478,gpt-5
-Parliamentary Speech Topic,GPT-5,English,macro_f1,0.7338714523,gpt-5
-Parliamentary Speech Topic,GPT-5,English,micro_f1,0.7317351598,gpt-5
-Parliamentary Speech Topic,GPT-5,Serbian,macro_f1,0.7072848539,gpt-5
-Parliamentary Speech Topic,GPT-5,Serbian,micro_f1,0.7025171625,gpt-5
 Parliamentary Speech Topic,GPT-5,Bosnian,macro_f1,0.6428336253,gpt-5
 Parliamentary Speech Topic,GPT-5,Bosnian,micro_f1,0.6529126214,gpt-5
-Parliamentary Speech Topic,GPT-3.5-Turbo,Croatian,macro_f1,0.4871659677,gpt-3.5-turbo-0125
-Parliamentary Speech Topic,GPT-3.5-Turbo,Croatian,micro_f1,0.4844649022,gpt-3.5-turbo-0125
-Parliamentary Speech Topic,GPT-3.5-Turbo,English,macro_f1,0.5447803659,gpt-3.5-turbo-0125
-Parliamentary Speech Topic,GPT-3.5-Turbo,English,micro_f1,0.546803653,gpt-3.5-turbo-0125
-Parliamentary Speech Topic,GPT-3.5-Turbo,Serbian,macro_f1,0.5537989794,gpt-3.5-turbo-0125
-Parliamentary Speech Topic,GPT-3.5-Turbo,Serbian,micro_f1,0.5411899314,gpt-3.5-turbo-0125
 Parliamentary Speech Topic,GPT-3.5-Turbo,Bosnian,macro_f1,0.4892742143,gpt-3.5-turbo-0125
 Parliamentary Speech Topic,GPT-3.5-Turbo,Bosnian,micro_f1,0.4878640777,gpt-3.5-turbo-0125
-Parliamentary Speech Topic,GPT-5-Nano,Croatian,macro_f1,0.6051046672,gpt-5-nano-2025-08-07
-Parliamentary Speech Topic,GPT-5-Nano,Croatian,micro_f1,0.5983889528,gpt-5-nano-2025-08-07
-Parliamentary Speech Topic,GPT-5-Nano,English,macro_f1,0.6567632008,gpt-5-nano-2025-08-07
-Parliamentary Speech Topic,GPT-5-Nano,English,micro_f1,0.6643835616,gpt-5-nano-2025-08-07
-Parliamentary Speech Topic,GPT-5-Nano,Serbian,macro_f1,0.6252173455,gpt-5-nano-2025-08-07
-Parliamentary Speech Topic,GPT-5-Nano,Serbian,micro_f1,0.6304347826,gpt-5-nano-2025-08-07
 Parliamentary Speech Topic,GPT-5-Nano,Bosnian,macro_f1,0.5641829059,gpt-5-nano-2025-08-07
 Parliamentary Speech Topic,GPT-5-Nano,Bosnian,micro_f1,0.5849514563,gpt-5-nano-2025-08-07
-Parliamentary Speech Topic,GPT-5-mini,Croatian,macro_f1,0.6776315452,gpt-5-mini-2025-08-07
-Parliamentary Speech Topic,GPT-5-mini,Croatian,micro_f1,0.6720368239,gpt-5-mini-2025-08-07
-Parliamentary Speech Topic,GPT-5-mini,English,macro_f1,0.7289633014,gpt-5-mini-2025-08-07
-Parliamentary Speech Topic,GPT-5-mini,English,micro_f1,0.7294520548,gpt-5-mini-2025-08-07
-Parliamentary Speech Topic,GPT-5-mini,Serbian,macro_f1,0.6837198436,gpt-5-mini-2025-08-07
-Parliamentary Speech Topic,GPT-5-mini,Serbian,micro_f1,0.6773455378,gpt-5-mini-2025-08-07
 Parliamentary Speech Topic,GPT-5-mini,Bosnian,macro_f1,0.621466215,gpt-5-mini-2025-08-07
 Parliamentary Speech Topic,GPT-5-mini,Bosnian,micro_f1,0.6322815534,gpt-5-mini-2025-08-07
-Parliamentary Speech Topic,Gemini 2.5 Flash,Croatian,macro_f1,0.661392603,google/gemini-2.5-flash
-Parliamentary Speech Topic,Gemini 2.5 Flash,Croatian,micro_f1,0.6536248562,google/gemini-2.5-flash
-Parliamentary Speech Topic,Gemini 2.5 Flash,English,macro_f1,0.7094757832,google/gemini-2.5-flash
-Parliamentary Speech Topic,Gemini 2.5 Flash,English,micro_f1,0.7123287671,google/gemini-2.5-flash
-Parliamentary Speech Topic,Gemini 2.5 Flash,Serbian,macro_f1,0.6332974127,google/gemini-2.5-flash
-Parliamentary Speech Topic,Gemini 2.5 Flash,Serbian,micro_f1,0.6315789474,google/gemini-2.5-flash
 Parliamentary Speech Topic,Gemini 2.5 Flash,Bosnian,macro_f1,0.5862478831,google/gemini-2.5-flash
 Parliamentary Speech Topic,Gemini 2.5 Flash,Bosnian,micro_f1,0.5898058252,google/gemini-2.5-flash
-Parliamentary Speech Topic,Mistral Medium 3.1,Croatian,macro_f1,0.6271852902,mistralai/mistral-medium-3.1
-Parliamentary Speech Topic,Mistral Medium 3.1,Croatian,micro_f1,0.6110471807,mistralai/mistral-medium-3.1
-Parliamentary Speech Topic,Mistral Medium 3.1,English,macro_f1,0.6664422196,mistralai/mistral-medium-3.1
-Parliamentary Speech Topic,Mistral Medium 3.1,English,micro_f1,0.6643835616,mistralai/mistral-medium-3.1
-Parliamentary Speech Topic,Mistral Medium 3.1,Serbian,macro_f1,0.5969914144,mistralai/mistral-medium-3.1
-Parliamentary Speech Topic,Mistral Medium 3.1,Serbian,micro_f1,0.5778032037,mistralai/mistral-medium-3.1
 Parliamentary Speech Topic,Mistral Medium 3.1,Bosnian,macro_f1,0.5144432283,mistralai/mistral-medium-3.1
 Parliamentary Speech Topic,Mistral Medium 3.1,Bosnian,micro_f1,0.4878640777,mistralai/mistral-medium-3.1
-Parliamentary Speech Topic,Mistral Small 3.2,Croatian,macro_f1,0.5763213783,mistralai/mistral-small-3.2-24b-instruct
-Parliamentary Speech Topic,Mistral Small 3.2,Croatian,micro_f1,0.5684695052,mistralai/mistral-small-3.2-24b-instruct
-Parliamentary Speech Topic,Mistral Small 3.2,English,macro_f1,0.6287213923,mistralai/mistral-small-3.2-24b-instruct
-Parliamentary Speech Topic,Mistral Small 3.2,English,micro_f1,0.6244292237,mistralai/mistral-small-3.2-24b-instruct
-Parliamentary Speech Topic,Mistral Small 3.2,Serbian,macro_f1,0.6013668853,mistralai/mistral-small-3.2-24b-instruct
-Parliamentary Speech Topic,Mistral Small 3.2,Serbian,micro_f1,0.5949656751,mistralai/mistral-small-3.2-24b-instruct
 Parliamentary Speech Topic,Mistral Small 3.2,Bosnian,macro_f1,0.5430821317,mistralai/mistral-small-3.2-24b-instruct
 Parliamentary Speech Topic,Mistral Small 3.2,Bosnian,micro_f1,0.5218446602,mistralai/mistral-small-3.2-24b-instruct
-Parliamentary Speech Topic,GaMS-27B-Instruct,Croatian,macro_f1,0.2635184275,GaMS-27B
-Parliamentary Speech Topic,GaMS-27B-Instruct,Croatian,micro_f1,0.2554660529,GaMS-27B
-Parliamentary Speech Topic,GaMS-27B-Instruct,English,macro_f1,0.3049592418,GaMS-27B
-Parliamentary Speech Topic,GaMS-27B-Instruct,English,micro_f1,0.3127853881,GaMS-27B
-Parliamentary Speech Topic,GaMS-27B-Instruct,Serbian,macro_f1,0.2702223544,GaMS-27B
-Parliamentary Speech Topic,GaMS-27B-Instruct,Serbian,micro_f1,0.2723112128,GaMS-27B
 Parliamentary Speech Topic,GaMS-27B-Instruct,Bosnian,macro_f1,0.2052297684,GaMS-27B
 Parliamentary Speech Topic,GaMS-27B-Instruct,Bosnian,micro_f1,0.2123786408,GaMS-27B
-Sentiment,XLM-R-ParlaSent,English,macro_f1,0.7275634248,XLM-R-ParlaSent
-Sentiment,XLM-R-ParlaSent,English,micro_f1,0.7265384615,XLM-R-ParlaSent
-Sentiment,XLM-R-ParlaSent,Croatian,macro_f1,0.6981174088,XLM-R-ParlaSent
-Sentiment,XLM-R-ParlaSent,Croatian,micro_f1,0.7193113772,XLM-R-ParlaSent
-Sentiment,XLM-R-ParlaSent,Serbian,macro_f1,0.7100055038,XLM-R-ParlaSent
-Sentiment,XLM-R-ParlaSent,Serbian,micro_f1,0.7318435754,XLM-R-ParlaSent
+Parliamentary Speech Topic,ParlaCAP-classifier,Croatian,macro_f1,0.6856743459,ParlaCAP-classifier
+Parliamentary Speech Topic,ParlaCAP-classifier,Croatian,micro_f1,0.6766398159,ParlaCAP-classifier
+Parliamentary Speech Topic,Gemma 3,Croatian,macro_f1,0.5546842733,gemma3:27b
+Parliamentary Speech Topic,Gemma 3,Croatian,micro_f1,0.5506912442,gemma3:27b
+Parliamentary Speech Topic,LLaMA 4 Scout,Croatian,macro_f1,0.4836522524,llama4:scout
+Parliamentary Speech Topic,LLaMA 4 Scout,Croatian,micro_f1,0.4844649022,llama4:scout
+Parliamentary Speech Topic,LLaMA 3.3,Croatian,macro_f1,0.5546599188,llama3.3:latest
+Parliamentary Speech Topic,LLaMA 3.3,Croatian,micro_f1,0.5650172612,llama3.3:latest
+Parliamentary Speech Topic,Qwen 3,Croatian,macro_f1,0.5975587848,qwen3:32b
+Parliamentary Speech Topic,Qwen 3,Croatian,micro_f1,0.581127733,qwen3:32b
+Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Croatian,macro_f1,0.3114163981,deepseek-r1:14b
+Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Croatian,micro_f1,0.2842347526,deepseek-r1:14b
+Parliamentary Speech Topic,GPT-4o,Croatian,macro_f1,0.6714281454,gpt-4o-2024-08-06
+Parliamentary Speech Topic,GPT-4o,Croatian,micro_f1,0.663981588,gpt-4o-2024-08-06
+Parliamentary Speech Topic,GPT-4o-mini,Croatian,macro_f1,0.5895846598,gpt-4o-mini-2024-07-18
+Parliamentary Speech Topic,GPT-4o-mini,Croatian,micro_f1,0.5880322209,gpt-4o-mini-2024-07-18
+Parliamentary Speech Topic,GPT-5,Croatian,macro_f1,0.6910365387,gpt-5
+Parliamentary Speech Topic,GPT-5,Croatian,micro_f1,0.6869965478,gpt-5
+Parliamentary Speech Topic,GPT-3.5-Turbo,Croatian,macro_f1,0.4871659677,gpt-3.5-turbo-0125
+Parliamentary Speech Topic,GPT-3.5-Turbo,Croatian,micro_f1,0.4844649022,gpt-3.5-turbo-0125
+Parliamentary Speech Topic,GPT-5-Nano,Croatian,macro_f1,0.6051046672,gpt-5-nano-2025-08-07
+Parliamentary Speech Topic,GPT-5-Nano,Croatian,micro_f1,0.5983889528,gpt-5-nano-2025-08-07
+Parliamentary Speech Topic,GPT-5-mini,Croatian,macro_f1,0.6776315452,gpt-5-mini-2025-08-07
+Parliamentary Speech Topic,GPT-5-mini,Croatian,micro_f1,0.6720368239,gpt-5-mini-2025-08-07
+Parliamentary Speech Topic,Gemini 2.5 Flash,Croatian,macro_f1,0.661392603,google/gemini-2.5-flash
+Parliamentary Speech Topic,Gemini 2.5 Flash,Croatian,micro_f1,0.6536248562,google/gemini-2.5-flash
+Parliamentary Speech Topic,Mistral Medium 3.1,Croatian,macro_f1,0.6271852902,mistralai/mistral-medium-3.1
+Parliamentary Speech Topic,Mistral Medium 3.1,Croatian,micro_f1,0.6110471807,mistralai/mistral-medium-3.1
+Parliamentary Speech Topic,Mistral Small 3.2,Croatian,macro_f1,0.5763213783,mistralai/mistral-small-3.2-24b-instruct
+Parliamentary Speech Topic,Mistral Small 3.2,Croatian,micro_f1,0.5684695052,mistralai/mistral-small-3.2-24b-instruct
+Parliamentary Speech Topic,GaMS-27B-Instruct,Croatian,macro_f1,0.2635184275,GaMS-27B
+Parliamentary Speech Topic,GaMS-27B-Instruct,Croatian,micro_f1,0.2554660529,GaMS-27B
+Parliamentary Speech Topic,ParlaCAP-classifier,English,macro_f1,0.7229632138,ParlaCAP-classifier
+Parliamentary Speech Topic,ParlaCAP-classifier,English,micro_f1,0.7237442922,ParlaCAP-classifier
+Parliamentary Speech Topic,Gemma 3,English,macro_f1,0.6199967092,gemma3:27b
+Parliamentary Speech Topic,Gemma 3,English,micro_f1,0.6198630137,gemma3:27b
+Parliamentary Speech Topic,LLaMA 4 Scout,English,macro_f1,0.5131162288,llama4:scout
+Parliamentary Speech Topic,LLaMA 4 Scout,English,micro_f1,0.5251141553,llama4:scout
+Parliamentary Speech Topic,LLaMA 3.3,English,macro_f1,0.631682614,llama3.3:latest
+Parliamentary Speech Topic,LLaMA 3.3,English,micro_f1,0.6404109589,llama3.3:latest
+Parliamentary Speech Topic,Qwen 3,English,macro_f1,0.6466629855,qwen3:32b
+Parliamentary Speech Topic,Qwen 3,English,micro_f1,0.649543379,qwen3:32b
+Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,English,macro_f1,0.404498565,deepseek-r1:14b
+Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,English,micro_f1,0.3812785388,deepseek-r1:14b
+Parliamentary Speech Topic,GPT-4o,English,macro_f1,0.744534743,gpt-4o-2024-08-06
+Parliamentary Speech Topic,GPT-4o,English,micro_f1,0.7442922374,gpt-4o-2024-08-06
+Parliamentary Speech Topic,GPT-4o-mini,English,macro_f1,0.6410095723,gpt-4o-mini-2024-07-18
+Parliamentary Speech Topic,GPT-4o-mini,English,micro_f1,0.6415525114,gpt-4o-mini-2024-07-18
+Parliamentary Speech Topic,GPT-5,English,macro_f1,0.7338714523,gpt-5
+Parliamentary Speech Topic,GPT-5,English,micro_f1,0.7317351598,gpt-5
+Parliamentary Speech Topic,GPT-3.5-Turbo,English,macro_f1,0.5447803659,gpt-3.5-turbo-0125
+Parliamentary Speech Topic,GPT-3.5-Turbo,English,micro_f1,0.546803653,gpt-3.5-turbo-0125
+Parliamentary Speech Topic,GPT-5-Nano,English,macro_f1,0.6567632008,gpt-5-nano-2025-08-07
+Parliamentary Speech Topic,GPT-5-Nano,English,micro_f1,0.6643835616,gpt-5-nano-2025-08-07
+Parliamentary Speech Topic,GPT-5-mini,English,macro_f1,0.7289633014,gpt-5-mini-2025-08-07
+Parliamentary Speech Topic,GPT-5-mini,English,micro_f1,0.7294520548,gpt-5-mini-2025-08-07
+Parliamentary Speech Topic,Gemini 2.5 Flash,English,macro_f1,0.7094757832,google/gemini-2.5-flash
+Parliamentary Speech Topic,Gemini 2.5 Flash,English,micro_f1,0.7123287671,google/gemini-2.5-flash
+Parliamentary Speech Topic,Mistral Medium 3.1,English,macro_f1,0.6664422196,mistralai/mistral-medium-3.1
+Parliamentary Speech Topic,Mistral Medium 3.1,English,micro_f1,0.6643835616,mistralai/mistral-medium-3.1
+Parliamentary Speech Topic,Mistral Small 3.2,English,macro_f1,0.6287213923,mistralai/mistral-small-3.2-24b-instruct
+Parliamentary Speech Topic,Mistral Small 3.2,English,micro_f1,0.6244292237,mistralai/mistral-small-3.2-24b-instruct
+Parliamentary Speech Topic,GaMS-27B-Instruct,English,macro_f1,0.3049592418,GaMS-27B
+Parliamentary Speech Topic,GaMS-27B-Instruct,English,micro_f1,0.3127853881,GaMS-27B
+Parliamentary Speech Topic,ParlaCAP-classifier,Serbian,macro_f1,0.7068794735,ParlaCAP-classifier
+Parliamentary Speech Topic,ParlaCAP-classifier,Serbian,micro_f1,0.704805492,ParlaCAP-classifier
+Parliamentary Speech Topic,Gemma 3,Serbian,macro_f1,0.5704465687,gemma3:27b
+Parliamentary Speech Topic,Gemma 3,Serbian,micro_f1,0.5655409273,gemma3:27b
+Parliamentary Speech Topic,LLaMA 4 Scout,Serbian,macro_f1,0.4776614805,llama4:scout
+Parliamentary Speech Topic,LLaMA 4 Scout,Serbian,micro_f1,0.471395881,llama4:scout
+Parliamentary Speech Topic,LLaMA 3.3,Serbian,macro_f1,0.6129052744,llama3.3:latest
+Parliamentary Speech Topic,LLaMA 3.3,Serbian,micro_f1,0.6086956522,llama3.3:latest
+Parliamentary Speech Topic,Qwen 3,Serbian,macro_f1,0.5692075045,qwen3:32b
+Parliamentary Speech Topic,Qwen 3,Serbian,micro_f1,0.5514874142,qwen3:32b
+Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Serbian,macro_f1,0.3027400052,deepseek-r1:14b
+Parliamentary Speech Topic,DeepSeek-R1-Distill-Qwen-14B,Serbian,micro_f1,0.2791762014,deepseek-r1:14b
+Parliamentary Speech Topic,GPT-4o,Serbian,macro_f1,0.6910109862,gpt-4o-2024-08-06
+Parliamentary Speech Topic,GPT-4o,Serbian,micro_f1,0.6887871854,gpt-4o-2024-08-06
+Parliamentary Speech Topic,GPT-4o-mini,Serbian,macro_f1,0.5925278158,gpt-4o-mini-2024-07-18
+Parliamentary Speech Topic,GPT-4o-mini,Serbian,micro_f1,0.5881006865,gpt-4o-mini-2024-07-18
+Parliamentary Speech Topic,GPT-5,Serbian,macro_f1,0.7072848539,gpt-5
+Parliamentary Speech Topic,GPT-5,Serbian,micro_f1,0.7025171625,gpt-5
+Parliamentary Speech Topic,GPT-3.5-Turbo,Serbian,macro_f1,0.5537989794,gpt-3.5-turbo-0125
+Parliamentary Speech Topic,GPT-3.5-Turbo,Serbian,micro_f1,0.5411899314,gpt-3.5-turbo-0125
+Parliamentary Speech Topic,GPT-5-Nano,Serbian,macro_f1,0.6252173455,gpt-5-nano-2025-08-07
+Parliamentary Speech Topic,GPT-5-Nano,Serbian,micro_f1,0.6304347826,gpt-5-nano-2025-08-07
+Parliamentary Speech Topic,GPT-5-mini,Serbian,macro_f1,0.6837198436,gpt-5-mini-2025-08-07
+Parliamentary Speech Topic,GPT-5-mini,Serbian,micro_f1,0.6773455378,gpt-5-mini-2025-08-07
+Parliamentary Speech Topic,Gemini 2.5 Flash,Serbian,macro_f1,0.6332974127,google/gemini-2.5-flash
+Parliamentary Speech Topic,Gemini 2.5 Flash,Serbian,micro_f1,0.6315789474,google/gemini-2.5-flash
+Parliamentary Speech Topic,Mistral Medium 3.1,Serbian,macro_f1,0.5969914144,mistralai/mistral-medium-3.1
+Parliamentary Speech Topic,Mistral Medium 3.1,Serbian,micro_f1,0.5778032037,mistralai/mistral-medium-3.1
+Parliamentary Speech Topic,Mistral Small 3.2,Serbian,macro_f1,0.6013668853,mistralai/mistral-small-3.2-24b-instruct
+Parliamentary Speech Topic,Mistral Small 3.2,Serbian,micro_f1,0.5949656751,mistralai/mistral-small-3.2-24b-instruct
+Parliamentary Speech Topic,GaMS-27B-Instruct,Serbian,macro_f1,0.2702223544,GaMS-27B
+Parliamentary Speech Topic,GaMS-27B-Instruct,Serbian,micro_f1,0.2723112128,GaMS-27B
+PIQA,Claude Haiku 4.5,Bosnian,accuracy,1,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Bosnian,accuracy,1,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Bosnian,accuracy,1,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Bosnian,accuracy,0.99,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Bosnian,accuracy,1,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Bosnian,accuracy,0.98,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Bosnian,accuracy,0.99,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Bosnian,accuracy,1,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Bosnian,accuracy,1,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Bosnian,accuracy,1,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Bosnian,accuracy,1,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Bosnian,accuracy,1,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Bosnian,accuracy,1,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Bosnian,accuracy,1,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Bosnian,accuracy,1,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Bosnian,accuracy,0.99,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Bosnian,accuracy,1,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Bosnian,accuracy,0.99,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Bosnian,accuracy,0.99,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Bosnian,accuracy,1,openai/gpt-4o
+PIQA,GPT-5,Bosnian,accuracy,1,openai/gpt-5
+PIQA,GPT-5.4,Bosnian,accuracy,1,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Bosnian,accuracy,1,openai/gpt-5.4-pro
+PIQA,Qwen 3,Bosnian,accuracy,0.99,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Bosnian,accuracy,1,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Bosnian,accuracy,1,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Bosnian,accuracy,1,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Bosnian,accuracy,1,google/gemini-4-neon
+PIQA,GPT 6 Luna,Bosnian,accuracy,0.99,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Bosnian,accuracy,1,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Bulgarian,accuracy,0.96,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Bulgarian,accuracy,0.98,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Bulgarian,accuracy,0.99,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Bulgarian,accuracy,0.96,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Bulgarian,accuracy,0.96,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Bulgarian,accuracy,0.96,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Bulgarian,accuracy,0.96,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Bulgarian,accuracy,0.99,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Bulgarian,accuracy,0.98,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Bulgarian,accuracy,0.95,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Bulgarian,accuracy,0.96,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Bulgarian,accuracy,0.97,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Bulgarian,accuracy,0.92,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Bulgarian,accuracy,0.98,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Bulgarian,accuracy,0.97,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Bulgarian,accuracy,0.97,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Bulgarian,accuracy,0.95,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Bulgarian,accuracy,0.98,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Bulgarian,accuracy,0.78,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Bulgarian,accuracy,0.97,openai/gpt-4o
+PIQA,GPT-5,Bulgarian,accuracy,0.97,openai/gpt-5
+PIQA,GPT-5.4,Bulgarian,accuracy,0.99,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Bulgarian,accuracy,1,openai/gpt-5.4-pro
+PIQA,Qwen 3,Bulgarian,accuracy,0.99,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Bulgarian,accuracy,0.99,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Bulgarian,accuracy,0.99,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Bulgarian,accuracy,0.99,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Bulgarian,accuracy,0.99,google/gemini-4-neon
+PIQA,GPT 6 Luna,Bulgarian,accuracy,0.96,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Bulgarian,accuracy,0.99,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Cerkno Dialect,accuracy,0.57,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Cerkno Dialect,accuracy,0.74,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Cerkno Dialect,accuracy,0.67,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Cerkno Dialect,accuracy,0.67,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Cerkno Dialect,accuracy,0.77,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Cerkno Dialect,accuracy,0.95,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Cerkno Dialect,accuracy,0.92,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Cerkno Dialect,accuracy,0.78,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Cerkno Dialect,accuracy,0.96,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Cerkno Dialect,accuracy,0.57,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Cerkno Dialect,accuracy,0.6,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Cerkno Dialect,accuracy,0.65,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Cerkno Dialect,accuracy,0.6,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Cerkno Dialect,accuracy,0.54,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Cerkno Dialect,accuracy,0.57,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Cerkno Dialect,accuracy,0.53,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Cerkno Dialect,accuracy,0.62,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Cerkno Dialect,accuracy,0.49,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Cerkno Dialect,accuracy,0.5,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Cerkno Dialect,accuracy,0.78,openai/gpt-4o
+PIQA,GPT-5,Cerkno Dialect,accuracy,0.88,openai/gpt-5
+PIQA,GPT-5.4,Cerkno Dialect,accuracy,0.75,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Cerkno Dialect,accuracy,0.96,openai/gpt-5.4-pro
+PIQA,Qwen 3,Cerkno Dialect,accuracy,0.49,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Cerkno Dialect,accuracy,0.96,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Cerkno Dialect,accuracy,0.91,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Cerkno Dialect,accuracy,0.95,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Cerkno Dialect,accuracy,0.97,google/gemini-4-neon
+PIQA,GPT 6 Luna,Cerkno Dialect,accuracy,0.86,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Cerkno Dialect,accuracy,0.95,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Chakavian Dialect,accuracy,0.5,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Chakavian Dialect,accuracy,0.62,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Chakavian Dialect,accuracy,0.61,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Chakavian Dialect,accuracy,0.54,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Chakavian Dialect,accuracy,0.61,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Chakavian Dialect,accuracy,0.79,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Chakavian Dialect,accuracy,0.73,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Chakavian Dialect,accuracy,0.62,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Chakavian Dialect,accuracy,0.79,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Chakavian Dialect,accuracy,0.45,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Chakavian Dialect,accuracy,0.56,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Chakavian Dialect,accuracy,0.52,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Chakavian Dialect,accuracy,0.52,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Chakavian Dialect,accuracy,0.53,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Chakavian Dialect,accuracy,0.57,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Chakavian Dialect,accuracy,0.57,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Chakavian Dialect,accuracy,0.53,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Chakavian Dialect,accuracy,0.58,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Chakavian Dialect,accuracy,0.49,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Chakavian Dialect,accuracy,0.59,openai/gpt-4o
+PIQA,GPT-5,Chakavian Dialect,accuracy,0.76,openai/gpt-5
+PIQA,GPT-5.4,Chakavian Dialect,accuracy,0.58,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Chakavian Dialect,accuracy,0.85,openai/gpt-5.4-pro
+PIQA,Qwen 3,Chakavian Dialect,accuracy,0.54,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Chakavian Dialect,accuracy,0.89,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Chakavian Dialect,accuracy,0.76,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Chakavian Dialect,accuracy,0.86,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Chakavian Dialect,accuracy,0.83,google/gemini-4-neon
+PIQA,GPT 6 Luna,Chakavian Dialect,accuracy,0.7,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Chakavian Dialect,accuracy,0.84,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Croatian,accuracy,0.98,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Croatian,accuracy,1,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Croatian,accuracy,1,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Croatian,accuracy,0.98,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Croatian,accuracy,0.99,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Croatian,accuracy,0.98,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Croatian,accuracy,0.99,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Croatian,accuracy,1,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Croatian,accuracy,1,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Croatian,accuracy,0.93,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Croatian,accuracy,0.96,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Croatian,accuracy,1,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Croatian,accuracy,0.83,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Croatian,accuracy,0.89,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Croatian,accuracy,0.92,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Croatian,accuracy,0.96,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Croatian,accuracy,0.96,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Croatian,accuracy,0.95,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Croatian,accuracy,0.88,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Croatian,accuracy,0.99,openai/gpt-4o
+PIQA,GPT-5,Croatian,accuracy,1,openai/gpt-5
+PIQA,GPT-5.4,Croatian,accuracy,1,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Croatian,accuracy,1,openai/gpt-5.4-pro
+PIQA,Qwen 3,Croatian,accuracy,0.9,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Croatian,accuracy,1,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Croatian,accuracy,1,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Croatian,accuracy,1,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Croatian,accuracy,1,google/gemini-4-neon
+PIQA,GPT 6 Luna,Croatian,accuracy,1,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Croatian,accuracy,1,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,English,accuracy,0.91,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,English,accuracy,0.95,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,English,accuracy,0.94,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,English,accuracy,0.93,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,English,accuracy,0.94,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,English,accuracy,0.95,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,English,accuracy,0.96,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,English,accuracy,0.95,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,English,accuracy,0.95,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,English,accuracy,0.89,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,English,accuracy,0.92,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,English,accuracy,0.95,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,English,accuracy,0.81,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,English,accuracy,0.91,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,English,accuracy,0.88,meta-llama/llama-4-maverick
+PIQA,Mistral Large,English,accuracy,0.9,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,English,accuracy,0.94,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,English,accuracy,0.88,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,English,accuracy,0.86,openai/gpt-3.5-turbo
+PIQA,GPT-4o,English,accuracy,0.97,openai/gpt-4o
+PIQA,GPT-5,English,accuracy,0.97,openai/gpt-5
+PIQA,GPT-5.4,English,accuracy,0.92,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,English,accuracy,0.96,openai/gpt-5.4-pro
+PIQA,Qwen 3,English,accuracy,0.93,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,English,accuracy,0.96,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,English,accuracy,0.96,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,English,accuracy,0.97,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,English,accuracy,0.97,google/gemini-4-neon
+PIQA,GPT 6 Luna,English,accuracy,0.95,openai/gpt-6-luna
+PIQA,GPT 6 Terra,English,accuracy,0.97,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Macedonian,accuracy,0.94,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Macedonian,accuracy,1,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Macedonian,accuracy,0.99,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Macedonian,accuracy,0.96,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Macedonian,accuracy,0.99,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Macedonian,accuracy,1,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Macedonian,accuracy,1,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Macedonian,accuracy,1,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Macedonian,accuracy,1,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Macedonian,accuracy,0.9,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Macedonian,accuracy,0.95,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Macedonian,accuracy,0.97,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Macedonian,accuracy,0.89,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Macedonian,accuracy,0.95,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Macedonian,accuracy,0.97,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Macedonian,accuracy,0.98,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Macedonian,accuracy,0.92,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Macedonian,accuracy,0.93,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Macedonian,accuracy,0.8,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Macedonian,accuracy,1,openai/gpt-4o
+PIQA,GPT-5,Macedonian,accuracy,1,openai/gpt-5
+PIQA,GPT-5.4,Macedonian,accuracy,0.98,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Macedonian,accuracy,0.99,openai/gpt-5.4-pro
+PIQA,Qwen 3,Macedonian,accuracy,0.86,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Macedonian,accuracy,0.99,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Macedonian,accuracy,1,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Macedonian,accuracy,1,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Macedonian,accuracy,1,google/gemini-4-neon
+PIQA,GPT 6 Luna,Macedonian,accuracy,0.99,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Macedonian,accuracy,1,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Prlekija Dialect,accuracy,0.59,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Prlekija Dialect,accuracy,0.85,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Prlekija Dialect,accuracy,0.76,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Prlekija Dialect,accuracy,0.74,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Prlekija Dialect,accuracy,0.86,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Prlekija Dialect,accuracy,0.9,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Prlekija Dialect,accuracy,0.9,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Prlekija Dialect,accuracy,0.84,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Prlekija Dialect,accuracy,0.92,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Prlekija Dialect,accuracy,0.7,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Prlekija Dialect,accuracy,0.63,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Prlekija Dialect,accuracy,0.8,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Prlekija Dialect,accuracy,0.72,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Prlekija Dialect,accuracy,0.68,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Prlekija Dialect,accuracy,0.66,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Prlekija Dialect,accuracy,0.63,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Prlekija Dialect,accuracy,0.71,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Prlekija Dialect,accuracy,0.62,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Prlekija Dialect,accuracy,0.54,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Prlekija Dialect,accuracy,0.81,openai/gpt-4o
+PIQA,GPT-5,Prlekija Dialect,accuracy,0.91,openai/gpt-5
+PIQA,GPT-5.4,Prlekija Dialect,accuracy,0.85,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Prlekija Dialect,accuracy,0.93,openai/gpt-5.4-pro
+PIQA,Qwen 3,Prlekija Dialect,accuracy,0.69,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Prlekija Dialect,accuracy,0.92,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Prlekija Dialect,accuracy,0.89,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Prlekija Dialect,accuracy,0.92,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Prlekija Dialect,accuracy,0.93,google/gemini-4-neon
+PIQA,GPT 6 Luna,Prlekija Dialect,accuracy,0.86,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Prlekija Dialect,accuracy,0.94,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Šatrovački Dialect,accuracy,0.51,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Šatrovački Dialect,accuracy,0.61,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Šatrovački Dialect,accuracy,0.53,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Šatrovački Dialect,accuracy,0.42,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Šatrovački Dialect,accuracy,0.53,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Šatrovački Dialect,accuracy,0.65,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Šatrovački Dialect,accuracy,0.68,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Šatrovački Dialect,accuracy,0.64,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Šatrovački Dialect,accuracy,0.99,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Šatrovački Dialect,accuracy,0.45,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Šatrovački Dialect,accuracy,0.51,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Šatrovački Dialect,accuracy,0.61,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Šatrovački Dialect,accuracy,0.5,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Šatrovački Dialect,accuracy,0.55,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Šatrovački Dialect,accuracy,0.47,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Šatrovački Dialect,accuracy,0.25,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Šatrovački Dialect,accuracy,0.54,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Šatrovački Dialect,accuracy,0.51,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Šatrovački Dialect,accuracy,0.51,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Šatrovački Dialect,accuracy,0.53,openai/gpt-4o
+PIQA,GPT-5,Šatrovački Dialect,accuracy,0.7,openai/gpt-5
+PIQA,GPT-5.4,Šatrovački Dialect,accuracy,0.57,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Šatrovački Dialect,accuracy,0.92,openai/gpt-5.4-pro
+PIQA,Qwen 3,Šatrovački Dialect,accuracy,0.54,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Šatrovački Dialect,accuracy,0.78,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Šatrovački Dialect,accuracy,0.69,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Šatrovački Dialect,accuracy,0.91,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Šatrovački Dialect,accuracy,0.94,google/gemini-4-neon
+PIQA,GPT 6 Luna,Šatrovački Dialect,accuracy,0.71,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Šatrovački Dialect,accuracy,0.87,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Šatrovački Dialect (cyrillic),accuracy,0.47,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Šatrovački Dialect (cyrillic),accuracy,0.58,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Šatrovački Dialect (cyrillic),accuracy,0.51,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Šatrovački Dialect (cyrillic),accuracy,0.41,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Šatrovački Dialect (cyrillic),accuracy,0.6,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Šatrovački Dialect (cyrillic),accuracy,0.67,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Šatrovački Dialect (cyrillic),accuracy,0.78,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Šatrovački Dialect (cyrillic),accuracy,0.63,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Šatrovački Dialect (cyrillic),accuracy,1,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Šatrovački Dialect (cyrillic),accuracy,0.54,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Šatrovački Dialect (cyrillic),accuracy,0.59,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Šatrovački Dialect (cyrillic),accuracy,0.54,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Šatrovački Dialect (cyrillic),accuracy,0.48,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Šatrovački Dialect (cyrillic),accuracy,0.5,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Šatrovački Dialect (cyrillic),accuracy,0.47,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Šatrovački Dialect (cyrillic),accuracy,0.45,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Šatrovački Dialect (cyrillic),accuracy,0.56,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Šatrovački Dialect (cyrillic),accuracy,0.52,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Šatrovački Dialect (cyrillic),accuracy,0.57,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Šatrovački Dialect (cyrillic),accuracy,0.53,openai/gpt-4o
+PIQA,GPT-5,Šatrovački Dialect (cyrillic),accuracy,0.7,openai/gpt-5
+PIQA,GPT-5.4,Šatrovački Dialect (cyrillic),accuracy,0.61,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Šatrovački Dialect (cyrillic),accuracy,0.94,openai/gpt-5.4-pro
+PIQA,Qwen 3,Šatrovački Dialect (cyrillic),accuracy,0.56,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Šatrovački Dialect (cyrillic),accuracy,0.85,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Šatrovački Dialect (cyrillic),accuracy,0.71,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Šatrovački Dialect (cyrillic),accuracy,0.94,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Šatrovački Dialect (cyrillic),accuracy,0.97,google/gemini-4-neon
+PIQA,GPT 6 Luna,Šatrovački Dialect (cyrillic),accuracy,0.73,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Šatrovački Dialect (cyrillic),accuracy,0.93,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Serbian,accuracy,0.94,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Serbian,accuracy,0.95,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Serbian,accuracy,0.94,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Serbian,accuracy,0.91,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Serbian,accuracy,0.94,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Serbian,accuracy,0.93,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Serbian,accuracy,0.96,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Serbian,accuracy,0.97,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Serbian,accuracy,0.99,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Serbian,accuracy,0.9,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Serbian,accuracy,0.95,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Serbian,accuracy,0.97,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Serbian,accuracy,0.8,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Serbian,accuracy,0.87,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Serbian,accuracy,0.9,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Serbian,accuracy,0.93,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Serbian,accuracy,0.93,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Serbian,accuracy,0.87,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Serbian,accuracy,0.79,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Serbian,accuracy,0.98,openai/gpt-4o
+PIQA,GPT-5,Serbian,accuracy,0.99,openai/gpt-5
+PIQA,GPT-5.4,Serbian,accuracy,0.95,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Serbian,accuracy,0.99,openai/gpt-5.4-pro
+PIQA,Qwen 3,Serbian,accuracy,0.85,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Serbian,accuracy,0.97,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Serbian,accuracy,0.97,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Serbian,accuracy,0.98,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Serbian,accuracy,0.98,google/gemini-4-neon
+PIQA,GPT 6 Luna,Serbian,accuracy,0.96,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Serbian,accuracy,0.99,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Serbian (cyrillic),accuracy,0.96,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Serbian (cyrillic),accuracy,0.97,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Serbian (cyrillic),accuracy,0.96,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Serbian (cyrillic),accuracy,0.94,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Serbian (cyrillic),accuracy,0.95,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Serbian (cyrillic),accuracy,0.96,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Serbian (cyrillic),accuracy,0.98,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Serbian (cyrillic),accuracy,0.95,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Serbian (cyrillic),accuracy,0.99,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Serbian (cyrillic),accuracy,0.89,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Serbian (cyrillic),accuracy,0.93,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Serbian (cyrillic),accuracy,0.93,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Serbian (cyrillic),accuracy,0.77,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Serbian (cyrillic),accuracy,0.89,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Serbian (cyrillic),accuracy,0.89,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Serbian (cyrillic),accuracy,0.94,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Serbian (cyrillic),accuracy,0.97,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Serbian (cyrillic),accuracy,0.89,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Serbian (cyrillic),accuracy,0.74,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Serbian (cyrillic),accuracy,0.95,openai/gpt-4o
+PIQA,GPT-5,Serbian (cyrillic),accuracy,0.96,openai/gpt-5
+PIQA,GPT-5.4,Serbian (cyrillic),accuracy,0.96,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Serbian (cyrillic),accuracy,1,openai/gpt-5.4-pro
+PIQA,Qwen 3,Serbian (cyrillic),accuracy,0.85,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Serbian (cyrillic),accuracy,0.99,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Serbian (cyrillic),accuracy,0.99,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Serbian (cyrillic),accuracy,0.99,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Serbian (cyrillic),accuracy,0.99,google/gemini-4-neon
+PIQA,GPT 6 Luna,Serbian (cyrillic),accuracy,0.97,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Serbian (cyrillic),accuracy,0.98,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Slovenian,accuracy,0.89,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Slovenian,accuracy,0.97,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Slovenian,accuracy,0.97,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Slovenian,accuracy,0.96,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Slovenian,accuracy,0.96,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Slovenian,accuracy,1,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Slovenian,accuracy,1,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Slovenian,accuracy,0.98,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Slovenian,accuracy,1,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Slovenian,accuracy,0.83,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Slovenian,accuracy,0.9,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Slovenian,accuracy,0.89,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Slovenian,accuracy,0.9,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Slovenian,accuracy,0.83,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Slovenian,accuracy,0.86,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Slovenian,accuracy,0.91,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Slovenian,accuracy,0.86,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Slovenian,accuracy,0.78,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Slovenian,accuracy,0.78,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Slovenian,accuracy,0.97,openai/gpt-4o
+PIQA,GPT-5,Slovenian,accuracy,0.99,openai/gpt-5
+PIQA,GPT-5.4,Slovenian,accuracy,0.99,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Slovenian,accuracy,0.98,openai/gpt-5.4-pro
+PIQA,Qwen 3,Slovenian,accuracy,0.75,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Slovenian,accuracy,1,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Slovenian,accuracy,0.98,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Slovenian,accuracy,1,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Slovenian,accuracy,1,google/gemini-4-neon
+PIQA,GPT 6 Luna,Slovenian,accuracy,1,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Slovenian,accuracy,0.99,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Torlak Dialect,accuracy,0.7,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Torlak Dialect,accuracy,0.87,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Torlak Dialect,accuracy,0.87,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Torlak Dialect,accuracy,0.8,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Torlak Dialect,accuracy,0.85,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Torlak Dialect,accuracy,0.92,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Torlak Dialect,accuracy,0.95,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Torlak Dialect,accuracy,0.87,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Torlak Dialect,accuracy,0.95,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Torlak Dialect,accuracy,0.68,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Torlak Dialect,accuracy,0.72,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Torlak Dialect,accuracy,0.78,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Torlak Dialect,accuracy,0.56,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Torlak Dialect,accuracy,0.62,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Torlak Dialect,accuracy,0.74,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Torlak Dialect,accuracy,0.69,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Torlak Dialect,accuracy,0.67,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Torlak Dialect,accuracy,0.59,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Torlak Dialect,accuracy,0.55,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Torlak Dialect,accuracy,0.87,openai/gpt-4o
+PIQA,GPT-5,Torlak Dialect,accuracy,0.96,openai/gpt-5
+PIQA,GPT-5.4,Torlak Dialect,accuracy,0.84,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Torlak Dialect,accuracy,0.95,openai/gpt-5.4-pro
+PIQA,Qwen 3,Torlak Dialect,accuracy,0.79,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Torlak Dialect,accuracy,0.94,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Torlak Dialect,accuracy,0.94,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Torlak Dialect,accuracy,0.96,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Torlak Dialect,accuracy,0.92,google/gemini-4-neon
+PIQA,GPT 6 Luna,Torlak Dialect,accuracy,0.97,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Torlak Dialect,accuracy,0.95,openai/gpt-6.1-terra
+PIQA,Claude Haiku 4.5,Torlak Dialect (cyrillic),accuracy,0.73,anthropic/claude-haiku-4.5
+PIQA,Claude Opus 4.6,Torlak Dialect (cyrillic),accuracy,0.89,anthropic/claude-opus-4.6
+PIQA,Claude Sonnet 4.6,Torlak Dialect (cyrillic),accuracy,0.87,anthropic/claude-sonnet-4.6
+PIQA,DeepSeek-R1-0528,Torlak Dialect (cyrillic),accuracy,0.87,deepseek/deepseek-r1-0528
+PIQA,Gemini 2.5 Flash,Torlak Dialect (cyrillic),accuracy,0.83,google/gemini-2.5-flash
+PIQA,Gemini 2.5 Pro,Torlak Dialect (cyrillic),accuracy,0.93,google/gemini-2.5-pro
+PIQA,Gemini 3 Flash Preview,Torlak Dialect (cyrillic),accuracy,0.93,google/gemini-3-flash-preview
+PIQA,Gemini 3.1 Flash Lite,Torlak Dialect (cyrillic),accuracy,0.89,google/gemini-3.1-flash-lite-preview
+PIQA,Gemini 3.1 Pro Preview,Torlak Dialect (cyrillic),accuracy,0.96,google/gemini-3.1-pro-preview
+PIQA,Gemma 3,Torlak Dialect (cyrillic),accuracy,0.72,google/gemma-3-27b-it
+PIQA,Gemma 4 26B,Torlak Dialect (cyrillic),accuracy,0.7,google/gemma-4-26b-a4b-it
+PIQA,Gemma 4 31B,Torlak Dialect (cyrillic),accuracy,0.72,google/gemma-4-31b-it
+PIQA,GaMS-27B-Instruct-i1,Torlak Dialect (cyrillic),accuracy,0.6,cjvt/GaMS-27B-Instruct-i1
+PIQA,LLaMA 3.3,Torlak Dialect (cyrillic),accuracy,0.64,meta-llama/llama-3.3-70b-instruct
+PIQA,LLaMA 4 Maverick,Torlak Dialect (cyrillic),accuracy,0.74,meta-llama/llama-4-maverick
+PIQA,Mistral Large,Torlak Dialect (cyrillic),accuracy,0.73,mistralai/mistral-large-2512
+PIQA,Mistral Medium 3.1,Torlak Dialect (cyrillic),accuracy,0.78,mistralai/mistral-medium-3.1
+PIQA,Mistral Small,Torlak Dialect (cyrillic),accuracy,0.58,mistralai/mistral-small-2603
+PIQA,GPT-3.5-Turbo,Torlak Dialect (cyrillic),accuracy,0.58,openai/gpt-3.5-turbo
+PIQA,GPT-4o,Torlak Dialect (cyrillic),accuracy,0.88,openai/gpt-4o
+PIQA,GPT-5,Torlak Dialect (cyrillic),accuracy,0.94,openai/gpt-5
+PIQA,GPT-5.4,Torlak Dialect (cyrillic),accuracy,0.9,openai/gpt-5.4
+PIQA,GPT-5.4 Pro,Torlak Dialect (cyrillic),accuracy,0.95,openai/gpt-5.4-pro
+PIQA,Qwen 3,Torlak Dialect (cyrillic),accuracy,0.71,qwen/qwen3-32b
+PIQA,Claude Opus 5.5,Torlak Dialect (cyrillic),accuracy,0.92,anthropic/claude-opus-5.5
+PIQA,Claude Sonnet 5.5,Torlak Dialect (cyrillic),accuracy,0.86,anthropic/claude-sonnet-5.5
+PIQA,Gemini 4 Hydrogen,Torlak Dialect (cyrillic),accuracy,0.94,google/gemini-4-hydrogen
+PIQA,Gemini 4 Neon,Torlak Dialect (cyrillic),accuracy,0.95,google/gemini-4-neon
+PIQA,GPT 6 Luna,Torlak Dialect (cyrillic),accuracy,0.96,openai/gpt-6-luna
+PIQA,GPT 6 Terra,Torlak Dialect (cyrillic),accuracy,0.96,openai/gpt-6.1-terra
 Sentiment,XLM-R-ParlaSent,Bosnian,macro_f1,0.6966958606,XLM-R-ParlaSent
 Sentiment,XLM-R-ParlaSent,Bosnian,micro_f1,0.7210526316,XLM-R-ParlaSent
-Sentiment,DeepSeek-R1-Distill-Qwen-14B,English,macro_f1,0.6169059794,deepseek-r1:14b
-Sentiment,DeepSeek-R1-Distill-Qwen-14B,English,micro_f1,0.6173076923,deepseek-r1:14b
-Sentiment,DeepSeek-R1-Distill-Qwen-14B,Croatian,macro_f1,0.594812532,deepseek-r1:14b
-Sentiment,DeepSeek-R1-Distill-Qwen-14B,Croatian,micro_f1,0.6130239521,deepseek-r1:14b
-Sentiment,DeepSeek-R1-Distill-Qwen-14B,Serbian,macro_f1,0.5973492914,deepseek-r1:14b
-Sentiment,DeepSeek-R1-Distill-Qwen-14B,Serbian,micro_f1,0.6145251397,deepseek-r1:14b
 Sentiment,DeepSeek-R1-Distill-Qwen-14B,Bosnian,macro_f1,0.5676603766,deepseek-r1:14b
 Sentiment,DeepSeek-R1-Distill-Qwen-14B,Bosnian,micro_f1,0.5894736842,deepseek-r1:14b
-Sentiment,LLaMA 3.3,English,macro_f1,0.7486693947,llama3.3:latest
-Sentiment,LLaMA 3.3,English,micro_f1,0.745,llama3.3:latest
-Sentiment,LLaMA 3.3,Croatian,macro_f1,0.7278723723,llama3.3:latest
-Sentiment,LLaMA 3.3,Croatian,micro_f1,0.7425149701,llama3.3:latest
-Sentiment,LLaMA 3.3,Serbian,macro_f1,0.6925137552,llama3.3:latest
-Sentiment,LLaMA 3.3,Serbian,micro_f1,0.7113594041,llama3.3:latest
 Sentiment,LLaMA 3.3,Bosnian,macro_f1,0.673139337,llama3.3:latest
 Sentiment,LLaMA 3.3,Bosnian,micro_f1,0.7105263158,llama3.3:latest
-Sentiment,Gemma 3,English,macro_f1,0.7675997828,gemma3:27b
-Sentiment,Gemma 3,English,micro_f1,0.7661538462,gemma3:27b
-Sentiment,Gemma 3,Croatian,macro_f1,0.7280316556,gemma3:27b
-Sentiment,Gemma 3,Croatian,micro_f1,0.7417664671,gemma3:27b
-Sentiment,Gemma 3,Serbian,macro_f1,0.7068391376,gemma3:27b
-Sentiment,Gemma 3,Serbian,micro_f1,0.7253258845,gemma3:27b
 Sentiment,Gemma 3,Bosnian,macro_f1,0.7183838384,gemma3:27b
 Sentiment,Gemma 3,Bosnian,micro_f1,0.7421052632,gemma3:27b
-Sentiment,GPT-4o-mini,English,macro_f1,0.7331263778,gpt-4o-mini-2024-07-18
-Sentiment,GPT-4o-mini,English,micro_f1,0.7334615385,gpt-4o-mini-2024-07-18
-Sentiment,GPT-4o-mini,Croatian,macro_f1,0.6860364564,gpt-4o-mini-2024-07-18
-Sentiment,GPT-4o-mini,Croatian,micro_f1,0.7185628743,gpt-4o-mini-2024-07-18
-Sentiment,GPT-4o-mini,Serbian,macro_f1,0.681355209,gpt-4o-mini-2024-07-18
-Sentiment,GPT-4o-mini,Serbian,micro_f1,0.7057728119,gpt-4o-mini-2024-07-18
 Sentiment,GPT-4o-mini,Bosnian,macro_f1,0.593244717,gpt-4o-mini-2024-07-18
 Sentiment,GPT-4o-mini,Bosnian,micro_f1,0.6526315789,gpt-4o-mini-2024-07-18
-Sentiment,GPT-3.5-Turbo,English,macro_f1,0.6997700528,gpt-3.5-turbo-0125
-Sentiment,GPT-3.5-Turbo,English,micro_f1,0.6976923077,gpt-3.5-turbo-0125
-Sentiment,GPT-3.5-Turbo,Croatian,macro_f1,0.6517928959,gpt-3.5-turbo-0125
-Sentiment,GPT-3.5-Turbo,Croatian,micro_f1,0.6729041916,gpt-3.5-turbo-0125
-Sentiment,GPT-3.5-Turbo,Serbian,macro_f1,0.6641372492,gpt-3.5-turbo-0125
-Sentiment,GPT-3.5-Turbo,Serbian,micro_f1,0.6703910615,gpt-3.5-turbo-0125
 Sentiment,GPT-3.5-Turbo,Bosnian,macro_f1,0.583874944,gpt-3.5-turbo-0125
 Sentiment,GPT-3.5-Turbo,Bosnian,micro_f1,0.6263157895,gpt-3.5-turbo-0125
-Sentiment,GPT-4o,English,macro_f1,0.7710796128,gpt-4o-2024-08-06
-Sentiment,GPT-4o,English,micro_f1,0.7730769231,gpt-4o-2024-08-06
-Sentiment,GPT-4o,Croatian,macro_f1,0.7565209566,gpt-4o-2024-08-06
-Sentiment,GPT-4o,Croatian,micro_f1,0.7821856287,gpt-4o-2024-08-06
-Sentiment,GPT-4o,Serbian,macro_f1,0.7382772548,gpt-4o-2024-08-06
-Sentiment,GPT-4o,Serbian,micro_f1,0.7644320298,gpt-4o-2024-08-06
 Sentiment,GPT-4o,Bosnian,macro_f1,0.7009673256,gpt-4o-2024-08-06
 Sentiment,GPT-4o,Bosnian,micro_f1,0.7473684211,gpt-4o-2024-08-06
-Sentiment,GPT-5-Nano,English,macro_f1,0.751873943,gpt-5-nano-2025-08-07
-Sentiment,GPT-5-Nano,English,micro_f1,0.7492307692,gpt-5-nano-2025-08-07
-Sentiment,GPT-5-Nano,Croatian,macro_f1,0.7101447065,gpt-5-nano-2025-08-07
-Sentiment,GPT-5-Nano,Croatian,micro_f1,0.7200598802,gpt-5-nano-2025-08-07
-Sentiment,GPT-5-Nano,Serbian,macro_f1,0.7198123446,gpt-5-nano-2025-08-07
-Sentiment,GPT-5-Nano,Serbian,micro_f1,0.7271880819,gpt-5-nano-2025-08-07
 Sentiment,GPT-5-Nano,Bosnian,macro_f1,0.6844152866,gpt-5-nano-2025-08-07
 Sentiment,GPT-5-Nano,Bosnian,micro_f1,0.6947368421,gpt-5-nano-2025-08-07
-Sentiment,GPT-5-mini,English,macro_f1,0.7731097442,gpt-5-mini-2025-08-07
-Sentiment,GPT-5-mini,English,micro_f1,0.7707692308,gpt-5-mini-2025-08-07
-Sentiment,GPT-5-mini,Croatian,macro_f1,0.751793756,gpt-5-mini-2025-08-07
-Sentiment,GPT-5-mini,Croatian,micro_f1,0.7619760479,gpt-5-mini-2025-08-07
-Sentiment,GPT-5-mini,Serbian,macro_f1,0.7605016416,gpt-5-mini-2025-08-07
-Sentiment,GPT-5-mini,Serbian,micro_f1,0.7737430168,gpt-5-mini-2025-08-07
 Sentiment,GPT-5-mini,Bosnian,macro_f1,0.7341241345,gpt-5-mini-2025-08-07
 Sentiment,GPT-5-mini,Bosnian,micro_f1,0.7526315789,gpt-5-mini-2025-08-07
-Sentiment,GPT-5,English,macro_f1,0.784194889,gpt-5
-Sentiment,GPT-5,English,micro_f1,0.7819230769,gpt-5
-Sentiment,GPT-5,Croatian,macro_f1,0.7557027936,gpt-5
-Sentiment,GPT-5,Croatian,micro_f1,0.7732035928,gpt-5
-Sentiment,GPT-5,Serbian,macro_f1,0.7682868258,gpt-5
-Sentiment,GPT-5,Serbian,micro_f1,0.7830540037,gpt-5
 Sentiment,GPT-5,Bosnian,macro_f1,0.7587454212,gpt-5
 Sentiment,GPT-5,Bosnian,micro_f1,0.7789473684,gpt-5
-Sentiment,Qwen 3,English,macro_f1,0.7439452912,qwen3:32b
-Sentiment,Qwen 3,English,micro_f1,0.7434615385,qwen3:32b
-Sentiment,Qwen 3,Croatian,macro_f1,0.7041957699,qwen3:32b
-Sentiment,Qwen 3,Croatian,micro_f1,0.7282934132,qwen3:32b
-Sentiment,Qwen 3,Serbian,macro_f1,0.7065580052,qwen3:32b
-Sentiment,Qwen 3,Serbian,micro_f1,0.7234636872,qwen3:32b
 Sentiment,Qwen 3,Bosnian,macro_f1,0.6142079572,qwen3:32b
 Sentiment,Qwen 3,Bosnian,micro_f1,0.6578947368,qwen3:32b
-Sentiment,LLaMA 4 Scout,English,macro_f1,0.7052057035,llama4:scout
-Sentiment,LLaMA 4 Scout,English,micro_f1,0.7023076923,llama4:scout
-Sentiment,LLaMA 4 Scout,Croatian,macro_f1,0.6680832169,llama4:scout
-Sentiment,LLaMA 4 Scout,Croatian,micro_f1,0.6788922156,llama4:scout
-Sentiment,LLaMA 4 Scout,Serbian,macro_f1,0.6506360237,llama4:scout
-Sentiment,LLaMA 4 Scout,Serbian,micro_f1,0.6685288641,llama4:scout
 Sentiment,LLaMA 4 Scout,Bosnian,macro_f1,0.6282272716,llama4:scout
 Sentiment,LLaMA 4 Scout,Bosnian,micro_f1,0.6578947368,llama4:scout
-Sentiment,Gemini 2.5 Flash,English,macro_f1,0.7675114266,google/gemini-2.5-flash
-Sentiment,Gemini 2.5 Flash,English,micro_f1,0.7676923077,google/gemini-2.5-flash
-Sentiment,Gemini 2.5 Flash,Croatian,macro_f1,0.760760407,google/gemini-2.5-flash
-Sentiment,Gemini 2.5 Flash,Croatian,micro_f1,0.7866766467,google/gemini-2.5-flash
-Sentiment,Gemini 2.5 Flash,Serbian,macro_f1,0.7340615628,google/gemini-2.5-flash
-Sentiment,Gemini 2.5 Flash,Serbian,micro_f1,0.760707635,google/gemini-2.5-flash
 Sentiment,Gemini 2.5 Flash,Bosnian,macro_f1,0.6911787939,google/gemini-2.5-flash
 Sentiment,Gemini 2.5 Flash,Bosnian,micro_f1,0.7315789474,google/gemini-2.5-flash
-Sentiment,Mistral Medium 3.1,English,macro_f1,0.75935356,mistralai/mistral-medium-3.1
-Sentiment,Mistral Medium 3.1,English,micro_f1,0.7566839777,mistralai/mistral-medium-3.1
-Sentiment,Mistral Medium 3.1,Croatian,macro_f1,0.7339183248,mistralai/mistral-medium-3.1
-Sentiment,Mistral Medium 3.1,Croatian,micro_f1,0.755239521,mistralai/mistral-medium-3.1
-Sentiment,Mistral Medium 3.1,Serbian,macro_f1,0.7043345052,mistralai/mistral-medium-3.1
-Sentiment,Mistral Medium 3.1,Serbian,micro_f1,0.7182114578,mistralai/mistral-medium-3.1
 Sentiment,Mistral Medium 3.1,Bosnian,macro_f1,0.6412158118,mistralai/mistral-medium-3.1
 Sentiment,Mistral Medium 3.1,Bosnian,micro_f1,0.6736842105,mistralai/mistral-medium-3.1
-Sentiment,GaMS-27B-Instruct,English,macro_f1,0.532698836,GaMS-27B
-Sentiment,GaMS-27B-Instruct,English,micro_f1,0.5407592985,GaMS-27B
-Sentiment,GaMS-27B-Instruct,Croatian,macro_f1,0.5216315961,GaMS-27B
-Sentiment,GaMS-27B-Instruct,Croatian,micro_f1,0.5673652695,GaMS-27B
-Sentiment,GaMS-27B-Instruct,Serbian,macro_f1,0.4942587316,GaMS-27B
-Sentiment,GaMS-27B-Instruct,Serbian,micro_f1,0.552141527,GaMS-27B
 Sentiment,GaMS-27B-Instruct,Bosnian,macro_f1,0.5162670516,GaMS-27B
 Sentiment,GaMS-27B-Instruct,Bosnian,micro_f1,0.5473684211,GaMS-27B
+Sentiment,XLM-R-ParlaSent,Croatian,macro_f1,0.6981174088,XLM-R-ParlaSent
+Sentiment,XLM-R-ParlaSent,Croatian,micro_f1,0.7193113772,XLM-R-ParlaSent
+Sentiment,DeepSeek-R1-Distill-Qwen-14B,Croatian,macro_f1,0.594812532,deepseek-r1:14b
+Sentiment,DeepSeek-R1-Distill-Qwen-14B,Croatian,micro_f1,0.6130239521,deepseek-r1:14b
+Sentiment,LLaMA 3.3,Croatian,macro_f1,0.7278723723,llama3.3:latest
+Sentiment,LLaMA 3.3,Croatian,micro_f1,0.7425149701,llama3.3:latest
+Sentiment,Gemma 3,Croatian,macro_f1,0.7280316556,gemma3:27b
+Sentiment,Gemma 3,Croatian,micro_f1,0.7417664671,gemma3:27b
+Sentiment,GPT-4o-mini,Croatian,macro_f1,0.6860364564,gpt-4o-mini-2024-07-18
+Sentiment,GPT-4o-mini,Croatian,micro_f1,0.7185628743,gpt-4o-mini-2024-07-18
+Sentiment,GPT-3.5-Turbo,Croatian,macro_f1,0.6517928959,gpt-3.5-turbo-0125
+Sentiment,GPT-3.5-Turbo,Croatian,micro_f1,0.6729041916,gpt-3.5-turbo-0125
+Sentiment,GPT-4o,Croatian,macro_f1,0.7565209566,gpt-4o-2024-08-06
+Sentiment,GPT-4o,Croatian,micro_f1,0.7821856287,gpt-4o-2024-08-06
+Sentiment,GPT-5-Nano,Croatian,macro_f1,0.7101447065,gpt-5-nano-2025-08-07
+Sentiment,GPT-5-Nano,Croatian,micro_f1,0.7200598802,gpt-5-nano-2025-08-07
+Sentiment,GPT-5-mini,Croatian,macro_f1,0.751793756,gpt-5-mini-2025-08-07
+Sentiment,GPT-5-mini,Croatian,micro_f1,0.7619760479,gpt-5-mini-2025-08-07
+Sentiment,GPT-5,Croatian,macro_f1,0.7557027936,gpt-5
+Sentiment,GPT-5,Croatian,micro_f1,0.7732035928,gpt-5
+Sentiment,Qwen 3,Croatian,macro_f1,0.7041957699,qwen3:32b
+Sentiment,Qwen 3,Croatian,micro_f1,0.7282934132,qwen3:32b
+Sentiment,LLaMA 4 Scout,Croatian,macro_f1,0.6680832169,llama4:scout
+Sentiment,LLaMA 4 Scout,Croatian,micro_f1,0.6788922156,llama4:scout
+Sentiment,Gemini 2.5 Flash,Croatian,macro_f1,0.760760407,google/gemini-2.5-flash
+Sentiment,Gemini 2.5 Flash,Croatian,micro_f1,0.7866766467,google/gemini-2.5-flash
+Sentiment,Mistral Medium 3.1,Croatian,macro_f1,0.7339183248,mistralai/mistral-medium-3.1
+Sentiment,Mistral Medium 3.1,Croatian,micro_f1,0.755239521,mistralai/mistral-medium-3.1
+Sentiment,GaMS-27B-Instruct,Croatian,macro_f1,0.5216315961,GaMS-27B
+Sentiment,GaMS-27B-Instruct,Croatian,micro_f1,0.5673652695,GaMS-27B
+Sentiment,XLM-R-ParlaSent,English,macro_f1,0.7275634248,XLM-R-ParlaSent
+Sentiment,XLM-R-ParlaSent,English,micro_f1,0.7265384615,XLM-R-ParlaSent
+Sentiment,DeepSeek-R1-Distill-Qwen-14B,English,macro_f1,0.6169059794,deepseek-r1:14b
+Sentiment,DeepSeek-R1-Distill-Qwen-14B,English,micro_f1,0.6173076923,deepseek-r1:14b
+Sentiment,LLaMA 3.3,English,macro_f1,0.7486693947,llama3.3:latest
+Sentiment,LLaMA 3.3,English,micro_f1,0.745,llama3.3:latest
+Sentiment,Gemma 3,English,macro_f1,0.7675997828,gemma3:27b
+Sentiment,Gemma 3,English,micro_f1,0.7661538462,gemma3:27b
+Sentiment,GPT-4o-mini,English,macro_f1,0.7331263778,gpt-4o-mini-2024-07-18
+Sentiment,GPT-4o-mini,English,micro_f1,0.7334615385,gpt-4o-mini-2024-07-18
+Sentiment,GPT-3.5-Turbo,English,macro_f1,0.6997700528,gpt-3.5-turbo-0125
+Sentiment,GPT-3.5-Turbo,English,micro_f1,0.6976923077,gpt-3.5-turbo-0125
+Sentiment,GPT-4o,English,macro_f1,0.7710796128,gpt-4o-2024-08-06
+Sentiment,GPT-4o,English,micro_f1,0.7730769231,gpt-4o-2024-08-06
+Sentiment,GPT-5-Nano,English,macro_f1,0.751873943,gpt-5-nano-2025-08-07
+Sentiment,GPT-5-Nano,English,micro_f1,0.7492307692,gpt-5-nano-2025-08-07
+Sentiment,GPT-5-mini,English,macro_f1,0.7731097442,gpt-5-mini-2025-08-07
+Sentiment,GPT-5-mini,English,micro_f1,0.7707692308,gpt-5-mini-2025-08-07
+Sentiment,GPT-5,English,macro_f1,0.784194889,gpt-5
+Sentiment,GPT-5,English,micro_f1,0.7819230769,gpt-5
+Sentiment,Qwen 3,English,macro_f1,0.7439452912,qwen3:32b
+Sentiment,Qwen 3,English,micro_f1,0.7434615385,qwen3:32b
+Sentiment,LLaMA 4 Scout,English,macro_f1,0.7052057035,llama4:scout
+Sentiment,LLaMA 4 Scout,English,micro_f1,0.7023076923,llama4:scout
+Sentiment,Gemini 2.5 Flash,English,macro_f1,0.7675114266,google/gemini-2.5-flash
+Sentiment,Gemini 2.5 Flash,English,micro_f1,0.7676923077,google/gemini-2.5-flash
+Sentiment,Mistral Medium 3.1,English,macro_f1,0.75935356,mistralai/mistral-medium-3.1
+Sentiment,Mistral Medium 3.1,English,micro_f1,0.7566839777,mistralai/mistral-medium-3.1
+Sentiment,GaMS-27B-Instruct,English,macro_f1,0.532698836,GaMS-27B
+Sentiment,GaMS-27B-Instruct,English,micro_f1,0.5407592985,GaMS-27B
+Sentiment,XLM-R-ParlaSent,Serbian,macro_f1,0.7100055038,XLM-R-ParlaSent
+Sentiment,XLM-R-ParlaSent,Serbian,micro_f1,0.7318435754,XLM-R-ParlaSent
+Sentiment,DeepSeek-R1-Distill-Qwen-14B,Serbian,macro_f1,0.5973492914,deepseek-r1:14b
+Sentiment,DeepSeek-R1-Distill-Qwen-14B,Serbian,micro_f1,0.6145251397,deepseek-r1:14b
+Sentiment,LLaMA 3.3,Serbian,macro_f1,0.6925137552,llama3.3:latest
+Sentiment,LLaMA 3.3,Serbian,micro_f1,0.7113594041,llama3.3:latest
+Sentiment,Gemma 3,Serbian,macro_f1,0.7068391376,gemma3:27b
+Sentiment,Gemma 3,Serbian,micro_f1,0.7253258845,gemma3:27b
+Sentiment,GPT-4o-mini,Serbian,macro_f1,0.681355209,gpt-4o-mini-2024-07-18
+Sentiment,GPT-4o-mini,Serbian,micro_f1,0.7057728119,gpt-4o-mini-2024-07-18
+Sentiment,GPT-3.5-Turbo,Serbian,macro_f1,0.6641372492,gpt-3.5-turbo-0125
+Sentiment,GPT-3.5-Turbo,Serbian,micro_f1,0.6703910615,gpt-3.5-turbo-0125
+Sentiment,GPT-4o,Serbian,macro_f1,0.7382772548,gpt-4o-2024-08-06
+Sentiment,GPT-4o,Serbian,micro_f1,0.7644320298,gpt-4o-2024-08-06
+Sentiment,GPT-5-Nano,Serbian,macro_f1,0.7198123446,gpt-5-nano-2025-08-07
+Sentiment,GPT-5-Nano,Serbian,micro_f1,0.7271880819,gpt-5-nano-2025-08-07
+Sentiment,GPT-5-mini,Serbian,macro_f1,0.7605016416,gpt-5-mini-2025-08-07
+Sentiment,GPT-5-mini,Serbian,micro_f1,0.7737430168,gpt-5-mini-2025-08-07
+Sentiment,GPT-5,Serbian,macro_f1,0.7682868258,gpt-5
+Sentiment,GPT-5,Serbian,micro_f1,0.7830540037,gpt-5
+Sentiment,Qwen 3,Serbian,macro_f1,0.7065580052,qwen3:32b
+Sentiment,Qwen 3,Serbian,micro_f1,0.7234636872,qwen3:32b
+Sentiment,LLaMA 4 Scout,Serbian,macro_f1,0.6506360237,llama4:scout
+Sentiment,LLaMA 4 Scout,Serbian,micro_f1,0.6685288641,llama4:scout
+Sentiment,Gemini 2.5 Flash,Serbian,macro_f1,0.7340615628,google/gemini-2.5-flash
+Sentiment,Gemini 2.5 Flash,Serbian,micro_f1,0.760707635,google/gemini-2.5-flash
+Sentiment,Mistral Medium 3.1,Serbian,macro_f1,0.7043345052,mistralai/mistral-medium-3.1
+Sentiment,Mistral Medium 3.1,Serbian,micro_f1,0.7182114578,mistralai/mistral-medium-3.1
+Sentiment,GaMS-27B-Instruct,Serbian,macro_f1,0.4942587316,GaMS-27B
+Sentiment,GaMS-27B-Instruct,Serbian,micro_f1,0.552141527,GaMS-27B
